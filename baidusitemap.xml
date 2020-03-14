@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://cvblog.top/2020/02/29/Dataset-Of-RSCD/</loc>
-    <lastmod>2020-02-29</lastmod>
+    <lastmod>2020-03-14</lastmod>
+  </url>  <url>
+    <loc>http://cvblog.top/2020/03/14/Change-Detection-Based-on-Deep-Siamese-Convolutional-Network-for-Optical-Aerial-Images/</loc>
+    <lastmod>2020-03-14</lastmod>
+  </url>  <url>
+    <loc>http://cvblog.top/2020/03/11/Urban-change-detection-for-multispectral-earth-observation-using-convolution-neural-network/</loc>
+    <lastmod>2020-03-14</lastmod>
+  </url>  <url>
+    <loc>http://cvblog.top/2020/03/13/Ensemble/</loc>
+    <lastmod>2020-03-14</lastmod>
   </url>  <url>
     <loc>http://cvblog.top/2020/02/23/Learning-to-Measure-Changes-Fully-Convolutional-Siamese-Metric-Networks-for-Scene-Change-Detection/</loc>
     <lastmod>2020-02-28</lastmod>
