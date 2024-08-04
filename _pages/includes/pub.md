@@ -1,29 +1,27 @@
 # 📝 Selected Publications
 
-My full paper list can be found at <a href='https://scholar.google.com/citations?user=jTAxkbEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flikyoo%2Flikyoo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My full paper list can be found at <a href='https://scholar.google.com/citations?user=5RF4ia8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flikyoo%2Flikyoo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 ## Remote Sensing Image Change Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/opencd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/opencd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Open-CD: A Comprehensive Toolbox for Change Detection](https://arxiv.org/abs/2407.15317) \\
 **Kaiyu Li**, Jiawei Jiang, Andrea Codegoni, Chengxi Han, Yupeng Deng, Keyan Chen, Zhuo Zheng, Hao Chen, Zhengxia Zou, Zhenwei Shi, Sheng Fang, Deyu Meng, Zhi Wang, Xiangyong Cao
 
 [**Project**](https://github.com/likyoo/open-cd) ![](https://img.shields.io/github/stars/likyoo/open-cd?style=social)
+  - Open-CD is one of the most popular change detection toolkits.
+  - We launch the Open-CD Technical Report Plan (Open-CD TRP for shot). We invite some authors to introduce their algorithms and participate in the construction of the Open-CD codebase. This plan is under active development and we will keep this report updated.
+</div>
+</div>
 
-- Open-CD is one of the most popular change detection toolkits.
-- We launch the Open-CD Technical Report Plan (Open-CD TRP for shot). We invite some authors to introduce their algorithms and participate in the construction of the Open-CD codebase. This plan is under active development and we will keep this report updated.
-  </div>
-  </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/semicd_vl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/semicd_vl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SemiCD-VL: Visual-Language Model Guidance Makes Better Semi-supervised Change Detector](https://arxiv.org/abs/2405.04788) \\
 **Kaiyu Li**, Xiangyong Cao, Yupeng Deng, Junmin Liu, Deyu Meng, Zhi Wang
 
 [**Code**](https://github.com/likyoo/SemiCD-VL) ![](https://img.shields.io/github/stars/likyoo/SemiCD-VL?style=social)
-
   - This work is the first to introduce visual language models to a semi-supervised change detection task. 
 </div>
 </div>
@@ -34,11 +32,10 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 [A New Learning Paradigm for Foundation Model-based Remote Sensing Change Detection](https://arxiv.org/abs/2312.01163) \\
 **Kaiyu Li**, Xiangyong Cao, Deyu Meng
 
-[**Code**](https://github.com/likyoo/BAN) ![](https://img.shields.io/github/stars/likyoo/BAN?style=social) \| <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:YsMSGLbcyi4C'></span></strong>
-
+[**Code**](https://github.com/likyoo/BAN) ![](https://img.shields.io/github/stars/likyoo/BAN?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:YsMSGLbcyi4C'></span></strong>
   - BAN is the first universal framework to adapt the foundation model to the change detection task.
-    </div>
-    </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,12 +43,11 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 [Changer: Feature interaction is what you need for change detection](https://arxiv.org/abs/2209.08290) \\
 Sheng Fang, **Kaiyu Li†**, Zhe Li
 
-[**Code**](https://github.com/likyoo/open-cd) ![](https://img.shields.io/github/stars/likyoo/open-cd?style=social) \| <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:IjCSPb-OGe4C'></span></strong>
-
-- We propose a novel general change detection architecture, MetaChanger, which includes a series of alternative interaction layers in the feature extractor.
-- To verify the effectiveness of MetaChanger, we propose two derived models, ChangerAD and ChangerEx with simple interaction strategies: Aggregation-Distribution (AD) and “exchange”. AD is abstracted from some complex interaction methods, and **“exchange” is a completely parameter&computation-free operation by exchanging bi-temporal features**.
-  </div>
-  </div>
+[**Code**](https://github.com/likyoo/open-cd) ![](https://img.shields.io/github/stars/likyoo/open-cd?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:IjCSPb-OGe4C'></span></strong>
+  - We propose a novel general change detection architecture, MetaChanger, which includes a series of alternative interaction layers in the feature extractor.
+  - To verify the effectiveness of MetaChanger, we propose two derived models, ChangerAD and ChangerEx with simple interaction strategies: Aggregation-Distribution (AD) and “exchange”. AD is abstracted from some complex interaction methods, and **“exchange” is a completely parameter&computation-free operation by exchanging bi-temporal features**.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2021</div><img src='images/snunet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,12 +55,14 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 [SNUNet-CD: A densely connected Siamese network for change detection of VHR images](https://ieeexplore.ieee.org/abstract/document/9355573) \\
 Sheng Fang, **Kaiyu Li†**, Jinyuan Shao, Zhe Li
 
-[**Code**](https://github.com/likyoo/Siam-NestedUNet) ![](https://img.shields.io/github/stars/likyoo/Siam-NestedUNet?style=social) \| <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:9yKSN-GCB0IC'></span></strong>
+🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>
+
+[**Code**](https://github.com/likyoo/Siam-NestedUNet) ![](https://img.shields.io/github/stars/likyoo/Siam-NestedUNet?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:9yKSN-GCB0IC'></span></strong>
 
 - We propose a densely connected siamese network for change detection, namely SNUNet-CD (the combination of Siamese network and NestedUNet). SNUNet-CD alleviates the loss of localization information in the deep layers of neural network through compact information transmission between encoder and decoder, and between decoder and decoder.
 - Ensemble Channel Attention Module (ECAM) is  proposed for deep supervision.
-  </div>
-  </div>
+</div>
+</div>
 
 ## Few-shot Segmentation
 
@@ -74,10 +72,11 @@ Sheng Fang, **Kaiyu Li†**, Jinyuan Shao, Zhe Li
 [Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](https://arxiv.org/abs/2404.05111) \\
 Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao
 
-[**Code**](https://github.com/earth-insights/ClassTrans) ![](https://img.shields.io/github/stars/earth-insights/ClassTrans?style=social) \| <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:eQOLeE2rZwMC'></span></strong>
-
-- We propose a similarity transition matrix to guide the learning of novel classes with base class knowledge.
-- Our solution wins 2nd place in the [CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge](https://cliffbb.github.io/OEM-Fewshot-Challenge/).
+[**Code**](https://github.com/earth-insights/ClassTrans) ![](https://img.shields.io/github/stars/earth-insights/ClassTrans?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:eQOLeE2rZwMC'></span></strong>
+  - We propose a similarity transition matrix to guide the learning of novel classes with base class knowledge.
+  - Our solution wins 2nd place in the [CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge](https://cliffbb.github.io/OEM-Fewshot-Challenge/).
+</div>
+</div>
 
 ## Multi-modal Remote Sensing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><img src='images/s2enet.png' alt="sym" width="100%"></div></div>
@@ -85,23 +84,8 @@ Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao
 [S²ENet: Spatial–Spectral Cross-Modal Enhancement Network for Classification of Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/abstract/document/9583936) \\
 Sheng Fang, **Kaiyu Li†**, Zhe Li
 
-[**Code**](https://github.com/likyoo/Multimodal-Remote-Sensing-Toolkit) ![](https://img.shields.io/github/stars/likyoo/Multimodal-Remote-Sensing-Toolkit?style=social) \| <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:d1gkVwhDpl0C'></span></strong>
-
-- We propose a Spatial-Spectral Enhancement Module (S²EM) for cross modal information interaction in deep neural networks. Specifically, S²EM consists of SpAtial Enhancement Module (SAEM) for enhancing spatial representation of hyperspectral data by LiDAR features and SpEctral Enhancement Module (SEEM) for enhancing spectral representation of LiDAR data by hyperspectral features.
-
-  
-
-## Multi-modal Remote Sensing
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><img src='images/s2enet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-[S²ENet: Spatial–Spectral Cross-Modal Enhancement Network for Classification of Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/abstract/document/9583936) \\
-Sheng Fang, **Kaiyu Li†**, Zhe Li
-
-[**Code**](https://github.com/likyoo/Multimodal-Remote-Sensing-Toolkit) ![](https://img.shields.io/github/stars/likyoo/Multimodal-Remote-Sensing-Toolkit?style=social) \| <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:d1gkVwhDpl0C'></span></strong>
-
-- We propose a Spatial-Spectral Enhancement Module (S²EM) for cross modal information interaction in deep neural networks. Specifically, S²EM consists of SpAtial Enhancement Module (SAEM) for enhancing spatial representation of hyperspectral data by LiDAR features and SpEctral Enhancement Module (SEEM) for enhancing spectral representation of LiDAR data by hyperspectral features.
-
+[**Code**](https://github.com/likyoo/Multimodal-Remote-Sensing-Toolkit) ![](https://img.shields.io/github/stars/likyoo/Multimodal-Remote-Sensing-Toolkit?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:d1gkVwhDpl0C'></span></strong>
+  - We propose a Spatial-Spectral Enhancement Module (S²EM) for cross modal information interaction in deep neural networks. Specifically, S²EM consists of SpAtial Enhancement Module (SAEM) for enhancing spatial representation of hyperspectral data by LiDAR features and SpEctral Enhancement Module (SEEM) for enhancing spectral representation of LiDAR data by hyperspectral features.
+</div>
+</div>
   
