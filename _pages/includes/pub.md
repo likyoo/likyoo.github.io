@@ -37,7 +37,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/Changer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/changer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Changer: Feature interaction is what you need for change detection](https://arxiv.org/abs/2209.08290) \\
