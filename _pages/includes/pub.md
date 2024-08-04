@@ -13,13 +13,12 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 [**Project**](https://github.com/likyoo/open-cd) ![](https://img.shields.io/github/stars/likyoo/open-cd?style=social)
 
 - Open-CD is one of the most popular change detection toolkits.
-- We have launched the Open-CD Technical Report Plan (Open-CD TRP for shot). We invite some authors to introduce their algorithms and participate in the construction of the Open-CD codebase. This plan is under active development and we will keep this report updated.
+- We launch the Open-CD Technical Report Plan (Open-CD TRP for shot). We invite some authors to introduce their algorithms and participate in the construction of the Open-CD codebase. This plan is under active development and we will keep this report updated.
   </div>
   </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/semicd_vl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [SemiCD-VL: Visual-Language Model Guidance Makes Better Semi-supervised Change Detector](https://arxiv.org/abs/2405.04788) \\
 **Kaiyu Li**, Xiangyong Cao, Yupeng Deng, Junmin Liu, Deyu Meng, Zhi Wang
 
