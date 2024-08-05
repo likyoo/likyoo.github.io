@@ -93,7 +93,7 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 ## Others
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2022</div><img src='images/camion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[CAMION:Cascade Multi-input Multi-output Network for Skeleton Extraction](https://openaccess.thecvf.com/content/CVPR2022W/DLGC/html/Fang_CAMION_Cascade_Multi-Input_Multi-Output_Network_for_Skeleton_Extraction_CVPRW_2022_paper.html) \\
+[CAMION: Cascade Multi-input Multi-output Network for Skeleton Extraction](https://openaccess.thecvf.com/content/CVPR2022W/DLGC/html/Fang_CAMION_Cascade_Multi-Input_Multi-Output_Network_for_Skeleton_Extraction_CVPRW_2022_paper.html) \\
 Sheng Fang, **Kaiyu Li†**, Zhe Li
 
   - We propose a general cascade deep learning pipeline that achieves competitive skeleton extraction performance only using a simple U-shape network.
