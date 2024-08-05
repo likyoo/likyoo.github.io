@@ -88,4 +88,16 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
   - We propose a Spatial-Spectral Enhancement Module (S²EM) for cross modal information interaction in deep neural networks. Specifically, S²EM consists of SpAtial Enhancement Module (SAEM) for enhancing spatial representation of hyperspectral data by LiDAR features and SpEctral Enhancement Module (SEEM) for enhancing spectral representation of LiDAR data by hyperspectral features.
 </div>
 </div>
-  
+
+
+## Others
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2022</div><img src='images/camion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[CAMION:Cascade Multi-input Multi-output Network for Skeleton Extraction](https://openaccess.thecvf.com/content/CVPR2022W/DLGC/html/Fang_CAMION_Cascade_Multi-Input_Multi-Output_Network_for_Skeleton_Extraction_CVPRW_2022_paper.html) \\
+Sheng Fang, **Kaiyu Li†**, Zhe Li
+
+  - We propose a general cascade deep learning pipeline that achieves competitive skeleton extraction performance only using a simple U-shape network.
+  - We propose CAMION, a CAscade Multi-Input multiOutput Network that can obtain better performance from several auxiliary tasks such as feature point detection and contour extraction.
+  - Our solution wins 5th place in the CVPR 2022 DLGC Pixel SkelNetOn Challenge.
+</div>
+</div>
