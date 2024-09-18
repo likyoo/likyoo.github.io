@@ -28,11 +28,13 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/ban.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [A New Learning Paradigm for Foundation Model-based Remote Sensing Change Detection](https://arxiv.org/abs/2312.01163) \\
 **Kaiyu Li**, Xiangyong Cao, Deyu Meng
 
+🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>
+
 [**Code**](https://github.com/likyoo/BAN) ![](https://img.shields.io/github/stars/likyoo/BAN?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:YsMSGLbcyi4C'></span></strong>
+
   - BAN is the first universal framework to adapt the foundation model to the change detection task.
 </div>
 </div>
