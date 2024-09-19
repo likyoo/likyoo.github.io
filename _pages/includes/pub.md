@@ -41,9 +41,10 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/changer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Changer: Feature interaction is what you need for change detection](https://arxiv.org/abs/2209.08290) \\
 Sheng Fang, **Kaiyu Li†**, Zhe Li
+
+🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>
 
 [**Code**](https://github.com/likyoo/open-cd) ![](https://img.shields.io/github/stars/likyoo/open-cd?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:IjCSPb-OGe4C'></span></strong>
   - We propose a novel general change detection architecture, MetaChanger, which includes a series of alternative interaction layers in the feature extractor.
@@ -83,10 +84,14 @@ Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao
 ## Multi-modal Remote Sensing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><img src='images/s2enet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [S²ENet: Spatial–Spectral Cross-Modal Enhancement Network for Classification of Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/abstract/document/9583936) \\
 Sheng Fang, **Kaiyu Li†**, Zhe Li
 
+🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>
+
 [**Code**](https://github.com/likyoo/Multimodal-Remote-Sensing-Toolkit) ![](https://img.shields.io/github/stars/likyoo/Multimodal-Remote-Sensing-Toolkit?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:d1gkVwhDpl0C'></span></strong>
+
   - We propose a Spatial-Spectral Enhancement Module (S²EM) for cross modal information interaction in deep neural networks. Specifically, S²EM consists of SpAtial Enhancement Module (SAEM) for enhancing spatial representation of hyperspectral data by LiDAR features and SpEctral Enhancement Module (SEEM) for enhancing spectral representation of LiDAR data by hyperspectral features.
 </div>
 </div>
@@ -95,6 +100,7 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 ## Others
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2022</div><img src='images/camion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [CAMION: Cascade Multi-input Multi-output Network for Skeleton Extraction](https://openaccess.thecvf.com/content/CVPR2022W/DLGC/html/Fang_CAMION_Cascade_Multi-Input_Multi-Output_Network_for_Skeleton_Extraction_CVPRW_2022_paper.html) \\
 Sheng Fang, **Kaiyu Li†**, Zhe Li
 
