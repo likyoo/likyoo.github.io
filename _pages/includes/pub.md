@@ -2,6 +2,19 @@
 
 My full paper list can be found at <a href='https://scholar.google.com/citations?user=jTAxkbEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flikyoo%2Flikyoo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+## Open-Vocabulary Segmentation
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/segearth_ov.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SegEarth-OV: Towards Traning-Free Open-Vocabulary Segmentation for Remote Sensing Images](https://arxiv.org/abs/2410.01768) \\
+**Kaiyu Li**, Ruixun Liu, Xiangyong Cao, Deyu Meng, Zhi Wang
+
+[**Project**](https://likyoo.github.io/SegEarth-OV) | [**Code**](https://github.com/likyoo/SegEarth-OV) ![](https://img.shields.io/github/stars/likyoo/SegEarth-OV?style=social)
+  - SegEarth-OV is the first to introduce training-free Open Vocabulary Semantic Segmentation into remote sensing images, which makes OVSS possible in remote sensing contexts.
+</div>
+</div>
+
 ## Remote Sensing Image Change Detection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/opencd.png' alt="sym" width="100%"></div></div>
