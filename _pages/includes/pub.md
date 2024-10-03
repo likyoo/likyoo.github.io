@@ -4,7 +4,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 
 ## Open-Vocabulary Segmentation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/segearth_ov.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/segearth_ov.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SegEarth-OV: Towards Traning-Free Open-Vocabulary Segmentation for Remote Sensing Images](https://arxiv.org/abs/2410.01768) \\
