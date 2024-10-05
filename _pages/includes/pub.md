@@ -10,7 +10,10 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 [SegEarth-OV: Towards Traning-Free Open-Vocabulary Segmentation for Remote Sensing Images](https://arxiv.org/abs/2410.01768) \\
 **Kaiyu Li**, Ruixun Liu, Xiangyong Cao, Deyu Meng, Zhi Wang
 
-[**Project**](https://likyoo.github.io/SegEarth-OV) | [**Code**](https://github.com/likyoo/SegEarth-OV) ![](https://img.shields.io/github/stars/likyoo/SegEarth-OV?style=social)
+[**Project**](https://likyoo.github.io/SegEarth-OV) | [**Code**](https://github.com/likyoo/SegEarth-OV) ![](https://img.shields.io/github/stars/likyoo/SegEarth-OV?style=social) | [**Demo**](https://colab.research.google.com/drive/1a-NNz_2maesvszk4Xff5PKY02_moPqt6#scrollTo=Pz9QGEcFBGtK)  
+[**公众号【遥感与深度学习】：论文 | SegEarth-OV: 面向遥感图像的无训练开放词汇分割**](https://mp.weixin.qq.com/s/9QjsMNO4VbF4oc3lKi6IMg)  
+[**公众号【GISer阿兴】：遥感论文 | Arxiv | SegEarth-OV：一种基于CLIP和FeatUp的遥感图像开放词汇语义分割方法，代码已开源！**](https://mp.weixin.qq.com/s/sm6hGJCIfKMmnlZEZkuh9A)
+
   - SegEarth-OV is the first to introduce training-free Open Vocabulary Semantic Segmentation into remote sensing images, which makes OVSS possible in remote sensing contexts.
 </div>
 </div>
