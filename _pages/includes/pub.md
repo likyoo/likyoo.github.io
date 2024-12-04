@@ -34,7 +34,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/semicd_vl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/semicd_vl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SemiCD-VL: Visual-Language Model Guidance Makes Better Semi-supervised Change Detector](https://arxiv.org/abs/2405.04788) \\
 **Kaiyu Li**, Xiangyong Cao, Yupeng Deng, Junmin Liu, Deyu Meng, Zhi Wang

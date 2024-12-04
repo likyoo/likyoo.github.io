@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.12*: One paper on Semi-supervised Change Detection based on Vision-Language Model is accepted by TGRS.
 - *2024.11*: My Google Scholar citations are over 1,000 ! 🎉
 - *2024.09*: BAN becomes an ESI Highly Cited Paper.
 - *2024.08*: 获得山东计算机学会“浪潮新星杯”优秀硕士学位论文奖.
