@@ -40,7 +40,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 **Kaiyu Li**, Xiangyong Cao, Yupeng Deng, Junmin Liu, Deyu Meng, Zhi Wang
 
 [**Code**](https://github.com/likyoo/SemiCD-VL) ![](https://img.shields.io/github/stars/likyoo/SemiCD-VL?style=social)
-  - This work is the first to introduce visual language models to a semi-supervised change detection task. 
+  - This work is the first to introduce visual language models to the semi-supervised change detection task. 
 </div>
 </div>
 
