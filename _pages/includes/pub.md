@@ -13,11 +13,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 [**Project**](https://likyoo.github.io/SegEarth-OV) | [**Code**](https://github.com/likyoo/SegEarth-OV) ![](https://img.shields.io/github/stars/likyoo/SegEarth-OV?style=social) | [**Demo**](https://colab.research.google.com/drive/1a-NNz_2maesvszk4Xff5PKY02_moPqt6#scrollTo=Pz9QGEcFBGtK)
   - SegEarth-OV is the first to introduce training-free Open Vocabulary Semantic Segmentation into remote sensing images, which makes OVSS possible in remote sensing contexts.
 
-<span style="font-size: 12px;"><b>Media coverage:</b> [【遥感与深度学习】：论文 | SegEarth-OV: 面向遥感图像的无训练开放词汇分割](https://mp.weixin.qq.com/s/9QjsMNO4VbF4oc3lKi6IMg) | [【GISer阿兴】](https://mp.weixin.qq.com/s/sm6hGJCIfKMmnlZEZkuh9A)</span>
-
-<!-- <span style="font-size: 12px;">[公众号【遥感与深度学习】：论文 | SegEarth-OV: 面向遥感图像的无训练开放词汇分割](https://mp.weixin.qq.com/s/9QjsMNO4VbF4oc3lKi6IMg)</span>
-
-<span style="font-size: 12px;">[公众号【GISer阿兴】：遥感论文 | Arxiv | SegEarth-OV：一种基于CLIP和FeatUp的遥感图像开放词汇语义分割方法，代码已开源！](https://mp.weixin.qq.com/s/sm6hGJCIfKMmnlZEZkuh9A)</span> -->
+**Media coverage:**<span style="font-size: 12px;"> [【遥感与深度学习】SegEarth-OV: 面向遥感图像的无训练开放词汇分割](https://mp.weixin.qq.com/s/9QjsMNO4VbF4oc3lKi6IMg) | [【GISer阿兴】](https://mp.weixin.qq.com/s/sm6hGJCIfKMmnlZEZkuh9A)</span>
 
 </div>
 </div>
