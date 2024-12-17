@@ -115,7 +115,9 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 
 ## Others
 
-- **[Road Graph Extraction]** [Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method](https://arxiv.org/abs/2411.16733), Pan Yin\*, **Kaiyu Li\***, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng. <div class="badge">arXiv 2024</div>
+<div class="badge">arXiv 2024</div><div><b>[Road Graph Extraction]</b> [Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method](https://arxiv.org/abs/2411.16733), Pan Yin\*, **Kaiyu Li\***, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng.</div>
+
+<!-- - **[Road Graph Extraction]** [Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method](https://arxiv.org/abs/2411.16733), Pan Yin\*, **Kaiyu Li\***, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng.  -->
 - **[Change Captioning]** [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Captioning](https://arxiv.org/abs/2410.23946), Ruixun Liu\*, **Kaiyu Li\***, Jiayi Song\*, Dongwei Sun, Xiangyong Cao. <div class="badge">arXiv 2024</div>
 - **Agriculture** [RepDI: A light-weight CPU network for apple leaf disease identification](https://www.sciencedirect.com/science/article/abs/pii/S0168169923005100), Jiye Zheng, **Kaiyu Li†**, Wenbin Wu, Huaijun Ruan. <div class="badge">COMPAG 2023</div>
 - **[Skeleton Extraction]** [CAMION: Cascade Multi-input Multi-output Network for Skeleton Extraction](https://openaccess.thecvf.com/content/CVPR2022W/DLGC/html/Fang_CAMION_Cascade_Multi-Input_Multi-Output_Network_for_Skeleton_Extraction_CVPRW_2022_paper.html), Sheng Fang, **Kaiyu Li†**, Zhe Li. <div class="badge">CVPRW 2022</div>
