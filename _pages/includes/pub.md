@@ -115,6 +115,10 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 
 ## Others
 
+- <div style="display: flex; align-items: center;">
+    <div class="badge" style="margin-right: 8px;">arXiv 2024</div>
+    **[Road Graph Extraction]** [Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method](https://arxiv.org/abs/2411.16733), Pan Yin\*, **Kaiyu Li\***, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng.
+  </div>
 - <div class="badge">arXiv 2024</div> **[Road Graph Extraction]** [Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method](https://arxiv.org/abs/2411.16733), Pan Yin\*, **Kaiyu Li\***, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng.
 - <div class="badge">arXiv 2024</div> **[Change Captioning]** [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Captioning](https://arxiv.org/abs/2410.23946), Ruixun Liu\*, **Kaiyu Li\***, Jiayi Song\*, Dongwei Sun, Xiangyong Cao
 - <div class="badge">CVPRW 2022</div> **[Skeleton Extraction]** [CAMION: Cascade Multi-input Multi-output Network for Skeleton Extraction](https://openaccess.thecvf.com/content/CVPR2022W/DLGC/html/Fang_CAMION_Cascade_Multi-Input_Multi-Output_Network_for_Skeleton_Extraction_CVPRW_2022_paper.html), Sheng Fang, **Kaiyu Li†**, Zhe Li.
