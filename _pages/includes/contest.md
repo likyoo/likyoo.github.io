@@ -10,4 +10,4 @@
 - 2021, 第十届全国海洋航行器设计与制作大赛齐鲁赛区 二等奖. (**SOLO**)
 - 2020, “未来杯高校 AI 挑战赛”图像赛道 TOP3. (**SOLO**) ([URL](https://ai.futurelab.tv/))
 - 2019, “未来杯高校 AI 挑战赛”图像组华北赛区 TOP1. (**SOLO**) ([URL](https://www.smartship.cn/?type=productinfo&S_id=172))
-- 2019, “新大陆杯”第二届山东省高校大学生人工智能大赛 一等奖. (**SOLO**)
+- 2019, “新大陆杯”第二届山东省高校大学生人工智能大赛 一等奖. (**Team leader**)
