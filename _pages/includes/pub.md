@@ -64,7 +64,7 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 
 [**Code**](https://github.com/likyoo/open-cd) ![](https://img.shields.io/github/stars/likyoo/open-cd?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:IjCSPb-OGe4C'></span></strong>
   - We propose a novel general change detection architecture, MetaChanger, which includes a series of alternative interaction layers in the feature extractor.
-  - To verify the effectiveness of MetaChanger, we propose two derived models, ChangerAD and ChangerEx with simple interaction strategies: Aggregation-Distribution (AD) and “exchange”. AD is abstracted from some complex interaction methods, and **“exchange” is a completely parameter&computation-free operation by exchanging bi-temporal features**.
+  - To verify the effectiveness of MetaChanger, we propose two derived models, ChangerAD and ChangerEx with simple interaction strategies: Aggregation-Distribution (AD) and “exchange”. AD is abstracted from some complex interaction methods, and **“exchange” is a completely parameter & computation-free operation by exchanging bi-temporal features**.
 </div>
 </div>
 
