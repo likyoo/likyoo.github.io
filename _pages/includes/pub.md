@@ -20,7 +20,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 
 ## Remote Sensing Image Change Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/dynamicearth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/dynamicearth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DynamicEarth: How Far are We from Open-Vocabulary Change Detection?](https://arxiv.org/abs/2501.12931) \\
