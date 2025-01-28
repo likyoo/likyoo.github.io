@@ -27,8 +27,9 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 **Kaiyu Li**, Xiangyong Cao, Yupeng Deng, Chao Pang, Zepeng Xin, Deyu Meng, Zhi Wang
 
 [**Project**](https://likyoo.github.io/DynamicEarth) ![](https://img.shields.io/github/stars/likyoo/DynamicEarth?style=social)
-  - We propose a new task, open-vocabulary change detection.
-  - The first open-vocabulary change detection codebase, DynamicEarth, is released.
+  - We propose a new task, open-vocabulary change detection (OVCD).
+  - We propose two universal frameworks for OVCD.
+  - The first OVCD codebase, DynamicEarth, is released.
 </div>
 </div>
 
