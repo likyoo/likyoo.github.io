@@ -20,6 +20,18 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 
 ## Remote Sensing Image Change Detection
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/dynamicearth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DynamicEarth: How Far are We from Open-Vocabulary Change Detection?](https://arxiv.org/abs/2501.12931) \\
+**Kaiyu Li**, Xiangyong Cao, Yupeng Deng, Chao Pang, Zepeng Xin, Deyu Meng, Zhi Wang
+
+[**Project**](https://likyoo.github.io/DynamicEarth) ![](https://img.shields.io/github/stars/likyoo/DynamicEarth?style=social)
+  - We propose a new task, open-vocabulary change detection.
+  - The first open-vocabulary change detection codebase, DynamicEarth, is released.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/opencd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -115,6 +127,7 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 
 ## Others
 
+- **[Zero-shot Hyperspectral Image Classification]** [SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP](https://arxiv.org/abs/2501.16222), Li Pang, Jing Yao, **Kaiyu Li**, Xiangyong Cao. arXiv 2025.
 - **[Road Graph Extraction]** [Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method](https://arxiv.org/abs/2411.16733), Pan Yin\*, **Kaiyu Li\***, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng. arXiv 2024.
 - **[Change Captioning]** [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Captioning](https://arxiv.org/abs/2410.23946), Ruixun Liu\*, **Kaiyu Li\***, Jiayi Song\*, Dongwei Sun, Xiangyong Cao. arXiv 2024.
 - **[Agriculture]** [RepDI: A light-weight CPU network for apple leaf disease identification](https://www.sciencedirect.com/science/article/abs/pii/S0168169923005100), Jiye Zheng, **Kaiyu Li†**, Wenbin Wu, Huaijun Ruan. COMPAG 2023.
