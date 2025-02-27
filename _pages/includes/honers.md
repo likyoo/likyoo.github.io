@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- 2024, Outstanding Master's Degree Thesis of Shandong Province, Shandong Provincial Department of Education | [2024年山东省优秀硕士学位论文 （山东省教育厅）](http://edu.shandong.gov.cn/art/2025/1/8/art_11982_10336266.html)
+- [2024, Outstanding Master's Degree Thesis of Shandong Province, Shandong Provincial Department of Education | 2024年山东省优秀硕士学位论文 （山东省教育厅）](http://edu.shandong.gov.cn/art/2025/1/8/art_11982_10336266.html)
 - 2024, Outstanding Master's Degree Thesis Award of "Inspur Rising Star Cup", Shandong Computer Federation \| 山东计算机学会“浪潮新星杯”优秀硕士学位论文奖 (30 persons/year)
 - 2023, Outstanding Graduate Student, Shandong University of Science and Technology \| 山东科技大学优秀毕业研究生
 - 2023, Graduate Scholarship, Shandong University of Science and Technology \| 山东科技大学毕业生奖学金
