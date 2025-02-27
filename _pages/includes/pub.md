@@ -4,8 +4,9 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 
 ## Open-Vocabulary Segmentation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/segearth_ov.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/segearth_ov.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images](https://arxiv.org/abs/2410.01768) \\
 **Kaiyu Li**, Ruixun Liu, Xiangyong Cao, Xueru Bai, Feng Zhou, Deyu Meng, Zhi Wang
@@ -129,7 +130,7 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 ## Others
 
 - **[Zero-shot Hyperspectral Image Classification]** [SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP](https://arxiv.org/abs/2501.16222), Li Pang, Jing Yao, **Kaiyu Li**, Xiangyong Cao. arXiv 2025.
-- **[Road Graph Extraction]** [Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method](https://arxiv.org/abs/2411.16733), Pan Yin\*, **Kaiyu Li\***, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng. arXiv 2024.
+- **[Road Graph Extraction]** [Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method](https://arxiv.org/abs/2411.16733), Pan Yin\*, **Kaiyu Li\***, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng. CVPR 2025.
 - **[Change Captioning]** [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Captioning](https://arxiv.org/abs/2410.23946), Ruixun Liu\*, **Kaiyu Li\***, Jiayi Song\*, Dongwei Sun, Xiangyong Cao. arXiv 2024.
 - **[Agriculture]** [RepDI: A light-weight CPU network for apple leaf disease identification](https://www.sciencedirect.com/science/article/abs/pii/S0168169923005100), Jiye Zheng, **Kaiyu Li†**, Wenbin Wu, Huaijun Ruan. COMPAG 2023.
 - **[Skeleton Extraction]** [CAMION: Cascade Multi-input Multi-output Network for Skeleton Extraction](https://openaccess.thecvf.com/content/CVPR2022W/DLGC/html/Fang_CAMION_Cascade_Multi-Input_Multi-Output_Network_for_Skeleton_Extraction_CVPRW_2022_paper.html), Sheng Fang, **Kaiyu Li†**, Zhe Li. CVPRW 2022.
