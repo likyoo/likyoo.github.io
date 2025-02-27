@@ -1,5 +1,6 @@
 # 🔥 News
 - *2025.02*: [SegEarth-OV](https://likyoo.github.io/SegEarth-OV/) and [SAM-Road++](https://arxiv.org/abs/2411.16733) are accepted by CVPR 2025. 🎉🎉🎉
+- *2025.01*: 获得2024年山东省优秀硕士学位论文 （山东省教育厅） \| [公示](http://edu.shandong.gov.cn/art/2025/1/8/art_11982_10336266.html)
 - *2024.12*: One paper on Semi-supervised Change Detection based on Vision-Language Model is accepted by TGRS.
 - *2024.11*: My Google Scholar citations are over 1,000 ! 🎉
 - *2024.09*: BAN becomes an ESI Highly Cited Paper.
