@@ -1,5 +1,6 @@
 # 🏆 Selected Competitions
 
+- 2025, CVPR 2025 Anti-UAV Workshop & Challenge - Track 3. (**Team leader**) ([URL](https://anti-uav.github.io/))
 - 2024, ISPRS TC I Contest (Change Detection) TOP3. (**Collaboration** with [Jiawei Jiang](https://nightsongs.github.io/)) ([URL](https://www.gaofen-challenge.com/challenge) \| [Code](https://github.com/NightSongs/ISPRS2024_ChangeDetection_TOP3))
 - 2024, CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge TOP2. (**Team leader**) ([URL](https://cliffbb.github.io/OEM-Fewshot-Challenge/) \| [Code](https://github.com/earth-insights/ClassTrans))
 - 2022, CVPR 2022 DLGC Pixel SkelNetOn Challenge TOP5. (**SOLO**) ([URL](https://sites.google.com/view/dlgc-workshop-cvpr2023))
