@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.03*: We win 1st place in the [CVPR 2025 Anti-UAV Workshop & Challenge - Track 3](https://anti-uav.github.io/).
+- *2025.03*: We win 1st place in the [CVPR 2025 Anti-UAV Workshop & Challenge - Track 3](https://anti-uav.github.io/). 🏆
 - *2025.02*: [SegEarth-OV](https://likyoo.github.io/SegEarth-OV/) and [SAM-Road++](https://arxiv.org/abs/2411.16733) are accepted by CVPR 2025. 🎉🎉🎉
 - *2024.12*: One paper on Semi-supervised Change Detection based on Vision-Language Model is accepted by TGRS.
 - *2024.11*: My Google Scholar citations are over 1,000 ! 🎉
