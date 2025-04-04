@@ -2,9 +2,9 @@
 
 My full paper list can be found at <a href='https://scholar.google.com/citations?user=jTAxkbEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flikyoo%2Flikyoo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-## Open-Vocabulary Segmentation
+## Rmote Sensing Image Segmentation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/segearth_ov.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 <b><font color="red">Oral</font></b></div><img src='images/segearth_ov.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -18,6 +18,20 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/classtrans.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](https://arxiv.org/abs/2404.05111) \\
+Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao
+
+[**Code**](https://github.com/earth-insights/ClassTrans) ![](https://img.shields.io/github/stars/earth-insights/ClassTrans?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:eQOLeE2rZwMC'></span></strong>
+  - We propose a similarity transition matrix to guide the learning of novel classes with base class knowledge.
+  - Our solution wins 2nd place in the [CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge](https://cliffbb.github.io/OEM-Fewshot-Challenge/).
+</div>
+</div>
+
 
 ## Remote Sensing Image Change Detection
 
@@ -97,19 +111,6 @@ Sheng Fang, **Kaiyu Li†**, Jinyuan Shao, Zhe Li
 </div>
 </div>
 
-## Few-shot Segmentation
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/classtrans.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](https://arxiv.org/abs/2404.05111) \\
-Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao
-
-[**Code**](https://github.com/earth-insights/ClassTrans) ![](https://img.shields.io/github/stars/earth-insights/ClassTrans?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:eQOLeE2rZwMC'></span></strong>
-  - We propose a similarity transition matrix to guide the learning of novel classes with base class knowledge.
-  - Our solution wins 2nd place in the [CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge](https://cliffbb.github.io/OEM-Fewshot-Challenge/).
-</div>
-</div>
 
 ## Multi-modal Remote Sensing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><img src='images/s2enet.png' alt="sym" width="100%"></div></div>
