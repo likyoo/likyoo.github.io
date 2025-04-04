@@ -4,7 +4,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 
 ## Rmote Sensing Image Segmentation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 <b><font color="red">Oral</font></b></div><img src='images/segearth_ov.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Oral</div><img src='images/segearth_ov.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
