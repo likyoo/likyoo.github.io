@@ -1,8 +1,8 @@
 # 🔥 News
-- *2025.03*: We win (<b><font color="red">1st</font></b>) place in the [CVPR 2025 Anti-UAV Workshop & Challenge - Track 3](https://anti-uav.github.io/). 🏆
+- *2025.03*: We win <b><font color="red">1st</font></b> place in the [CVPR 2025 Anti-UAV Workshop & Challenge - Track 3](https://anti-uav.github.io/). 🏆
 - *2025.02*: [SegEarth-OV](https://likyoo.github.io/SegEarth-OV/) (<b><font color="red">Oral</font></b>) and [SAM-Road++](https://arxiv.org/abs/2411.16733) are accepted by CVPR 2025. 🎉🎉🎉
 - *2024.12*: One paper on Semi-supervised Change Detection based on Vision-Language Model is accepted by TGRS.
-- *2024.09*: [BAN](https://arxiv.org/abs/2312.01163) becomes an (<b><font color="red">ESI Highly Cited Paper</font></b>).
+- *2024.09*: [BAN](https://arxiv.org/abs/2312.01163) becomes an <b><font color="red">ESI Highly Cited Paper</font></b>.
 - *2024.07*: Open-CD Technical Report v1.0 is released on [arXiv](https://arxiv.org/abs/2407.15317), thanks to all contributors!
 - *2024.05*: We win 3rd place in ISPRS TC I Contest (Change Detection).
 - *2024.04*: One paper on RS few-shot segmentation is accepted by CVPR 2024 L3D-IVU workshop.
