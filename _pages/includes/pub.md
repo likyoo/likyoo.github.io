@@ -4,6 +4,21 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 
 ## Rmote Sensing Image Segmentation
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/segearth_r1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model](https://arxiv.org/abs/2504.09644) \\
+**Kaiyu Li**, Zepeng Xin, Li Pang, Chao Pang, Yupeng Deng, Jing Yao, Guisong Xia, Deyu Meng, Zhi Wang, Xiangyong Cao
+
+[**Project**](https://earth-insights.github.io/SegEarth-R1) | [**Code**](https://github.com/earth-insights/SegEarth-R1) ![](https://img.shields.io/github/stars/earth-insights/SegEarth-R1?style=social) | [**Dataset**]()
+  - We introduce the geospatial pixel reasoning task, construct the first benchmark dataset (EarthReason), and propose a simple yet effective baseline (SegEarth-R1).
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 <b>Oral</b></div><img src='images/segearth_ov.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
