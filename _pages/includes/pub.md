@@ -15,7 +15,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 [**Project**](https://earth-insights.github.io/SegEarth-R1) | [**Code**](https://github.com/earth-insights/SegEarth-R1) ![](https://img.shields.io/github/stars/earth-insights/SegEarth-R1?style=social) | [**Dataset**]()
   - We introduce the geospatial pixel reasoning task, construct the first benchmark dataset (EarthReason), and propose a simple yet effective baseline (SegEarth-R1).
 
-**Media coverage:**<span style="font-size: 12px;"> [【视觉与遥感前沿】SegEarth-R1实现地理推理「类人思考」](https://mp.weixin.qq.com/s/9XL49Sa7nj1KMTjbRXFrXw)|[【减论】](https://mp.weixin.qq.com/s/eVDl4im-_op8svPGtd8jnA)|</span>
+**Media coverage:**<span style="font-size: 12px;"> [【遥感与深度学习】SegEarth-R1: 遥感+推理大模型！Geospatial Pixel Reasoning](https://mp.weixin.qq.com/s/qu_Agarhj8nqcjWv7ZA7YQ)|[【视觉与遥感前沿】SegEarth-R1实现地理推理「类人思考」](https://mp.weixin.qq.com/s/9XL49Sa7nj1KMTjbRXFrXw)|[【减论】](https://mp.weixin.qq.com/s/eVDl4im-_op8svPGtd8jnA)|</span>
 
 </div>
 </div>
