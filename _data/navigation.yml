@@ -18,6 +18,9 @@ main:
   - title: "Projects"
     url: "/#-projects"
 
+  - title: "Co-authors"
+    url: "/#-co-authors"
+
   - title: "Competitions"
     url: "/#-selected-competitions"
 
