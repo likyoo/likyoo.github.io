@@ -12,6 +12,7 @@
 
 - Reviewer for Conference on Computer Vision and Pattern Recognition (**CVPR**)
 - Reviewer for International Conference on Computer Vision (**ICCV**)
+- Reviewer for Conference on Neural Information Processing Systems (**NeurIPS**)
 - Reviewer for ACM International Conference on Multimedia (**ACMMM**)
 - Reviewer for Conference on Computer Vision and Pattern Recognition, Deep Learning for Geometric Computing (**CVPR DLGC**)
 - Reviewer for the International Geoscience and Remote Sensing Symposium (**IGARSS**)
