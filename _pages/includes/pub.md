@@ -147,6 +147,7 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 
 ## Others
 
+- **[UAV Tracking]** [Dist-Tracker: A Small Object-aware Detector and Tracker for UAV Tracking](https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/html/Wang_Dist-Tracker_A_Small_Object-aware_Detector_and_Tracker_for_UAV_Tracking_CVPRW_2025_paper.html), Wenzhen Wang\*, Jing Fu\*, Jiayi Song\*, **Kaiyu Li\***, Hui Qiao, Jiang Liu, Hao Sun, Xiangyong Cao. CVPRW 2025.
 - **[Zero-shot Hyperspectral Image Classification]** [SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP](https://arxiv.org/abs/2501.16222), Li Pang, Jing Yao, **Kaiyu Li**, Xiangyong Cao. arXiv 2025. [Code](https://github.com/LiPang/SPECIAL).
 - **[Road Graph Extraction]** [Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method](https://arxiv.org/abs/2411.16733), Pan Yin\*, **Kaiyu Li\***, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng. CVPR 2025. [Code](https://github.com/earth-insights/samroadplus).
 - **[Change Captioning]** [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Captioning](https://arxiv.org/abs/2410.23946), Ruixun Liu\*, **Kaiyu Li\***, Jiayi Song\*, Dongwei Sun, Xiangyong Cao. arXiv 2024. [Code](https://github.com/liuruixun/MV-cc).
