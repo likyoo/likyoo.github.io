@@ -1,8 +1,8 @@
 # 🔥 News
-- *2025.06*: We get the [VALSE 2025 "Popular Poster" award](https://valser.org/2025/#/poster) (11/400) !
+- *2025.06*: We get the [VALSE 2025 "Popular Poster" award](https://valser.org/2025/#/poster) (11/398) !
 - *2025.04*: One paper on UAV tracking is accepted by CVPR 2025 Anti-UAV2025 workshop.
 - *2025.03*: We win <b><font color="red">1st</font></b> place in the [CVPR 2025 Anti-UAV Workshop & Challenge - Track 3](https://anti-uav.github.io/). 🏆
-- *2025.02*: [SegEarth-OV](https://likyoo.github.io/SegEarth-OV/) (<b><font color="red">Oral</font></b>) and [SAM-Road++](https://arxiv.org/abs/2411.16733) are accepted by CVPR 2025. 🎉🎉🎉
+- *2025.02*: [SegEarth-OV](https://likyoo.github.io/SegEarth-OV/) (<b><font color="red">Oral, 96/13008≈0.7%</font></b>) and [SAM-Road++](https://arxiv.org/abs/2411.16733) are accepted by CVPR 2025. 🎉🎉🎉
 - *2024.12*: One paper on Semi-supervised Change Detection based on Vision-Language Model is accepted by TGRS.
 - *2024.09*: [BAN](https://arxiv.org/abs/2312.01163) becomes an <b><font color="red">ESI Highly Cited Paper</font></b>.
 - *2024.07*: Open-CD Technical Report v1.0 is released on [arXiv](https://arxiv.org/abs/2407.15317), thanks to all contributors!
