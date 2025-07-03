@@ -37,7 +37,11 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/classtrans.png' alt="sym" width="100%"></div></div>
+- **[Semi-supervised Segmentation]** [RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2506.08772), Jiayi Song\*, **Kaiyu Li\***, Xiangyong Cao, Deyu Meng. arXiv 2025. [Code](https://github.com/earth-insights/RS-MTDF).
+
+- **[Few-shot Segmentation]** [Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](https://arxiv.org/abs/2404.05111), Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao. CVPRW'2024. 🏆️The 2nd place in the [CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge](https://cliffbb.github.io/OEM-Fewshot-Challenge/). [Code](https://github.com/earth-insights/ClassTrans).
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/classtrans.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](https://arxiv.org/abs/2404.05111) \\
@@ -47,7 +51,7 @@ Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao
   - We propose a similarity transition matrix to guide the learning of novel classes with base class knowledge.
   - Our solution wins 2nd place in the [CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge](https://cliffbb.github.io/OEM-Fewshot-Challenge/).
 </div>
-</div>
+</div> -->
 
 
 ## Remote Sensing Image Change Detection
@@ -147,7 +151,8 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 
 ## Others
 
-- **[Semi-supervised Segmentation]** [RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2506.08772), Jiayi Song\*, **Kaiyu Li\***, Xiangyong Cao, Deyu Meng. arXiv 2025. [Code](https://github.com/earth-insights/RS-MTDF).
+<!-- - **[Semi-supervised Segmentation]** [RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2506.08772), Jiayi Song\*, **Kaiyu Li\***, Xiangyong Cao, Deyu Meng. arXiv 2025. [Code](https://github.com/earth-insights/RS-MTDF). -->
+
 - **[UAV Tracking]** [Dist-Tracker: A Small Object-aware Detector and Tracker for UAV Tracking](https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/html/Wang_Dist-Tracker_A_Small_Object-aware_Detector_and_Tracker_for_UAV_Tracking_CVPRW_2025_paper.html), Wenzhen Wang\*, Jing Fu\*, Jiayi Song\*, **Kaiyu Li\***, Hui Qiao, Jiang Liu, Hao Sun, Xiangyong Cao. CVPRW 2025.
 - **[Zero-shot Hyperspectral Image Classification]** [SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP](https://arxiv.org/abs/2501.16222), Li Pang, Jing Yao, **Kaiyu Li**, Xiangyong Cao. arXiv 2025. [Code](https://github.com/LiPang/SPECIAL).
 - **[Road Graph Extraction]** [Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method](https://arxiv.org/abs/2411.16733), Pan Yin\*, **Kaiyu Li\***, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng. CVPR 2025. [Code](https://github.com/earth-insights/samroadplus).
