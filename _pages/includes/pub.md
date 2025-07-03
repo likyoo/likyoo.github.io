@@ -39,7 +39,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 
 - **[Semi-supervised Segmentation]** [RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2506.08772), Jiayi Song\*, **Kaiyu Li\***, Xiangyong Cao, Deyu Meng. arXiv 2025. [Code](https://github.com/earth-insights/RS-MTDF).
 
-- **[Few-shot Segmentation]** [Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](https://arxiv.org/abs/2404.05111), Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao. CVPRW'2024. 🏆️The 2nd place in the [CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge](https://cliffbb.github.io/OEM-Fewshot-Challenge/). [Code](https://github.com/earth-insights/ClassTrans).
+- **[Few-shot Segmentation]** [Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](https://arxiv.org/abs/2404.05111), Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao. CVPRW'2024. [Code](https://github.com/earth-insights/ClassTrans). 🏆️The 2nd place in the [CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge](https://cliffbb.github.io/OEM-Fewshot-Challenge/).
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/classtrans.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -132,6 +132,7 @@ Sheng Fang, **Kaiyu Li†**, Jinyuan Shao, Zhe Li
 </div>
 </div>
 
+- **[Change Captioning]** [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Captioning](https://arxiv.org/abs/2410.23946), Ruixun Liu\*, **Kaiyu Li\***, Jiayi Song\*, Dongwei Sun, Xiangyong Cao. arXiv 2024. [Code](https://github.com/liuruixun/MV-cc).
 
 <!-- ## Multi-modal Remote Sensing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><img src='images/s2enet.png' alt="sym" width="100%"></div></div>
@@ -156,7 +157,7 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 - **[UAV Tracking]** [Dist-Tracker: A Small Object-aware Detector and Tracker for UAV Tracking](https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/html/Wang_Dist-Tracker_A_Small_Object-aware_Detector_and_Tracker_for_UAV_Tracking_CVPRW_2025_paper.html), Wenzhen Wang\*, Jing Fu\*, Jiayi Song\*, **Kaiyu Li\***, Hui Qiao, Jiang Liu, Hao Sun, Xiangyong Cao. CVPRW 2025.
 - **[Zero-shot Hyperspectral Image Classification]** [SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP](https://arxiv.org/abs/2501.16222), Li Pang, Jing Yao, **Kaiyu Li**, Xiangyong Cao. arXiv 2025. [Code](https://github.com/LiPang/SPECIAL).
 - **[Road Graph Extraction]** [Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method](https://arxiv.org/abs/2411.16733), Pan Yin\*, **Kaiyu Li\***, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng. CVPR 2025. [Code](https://github.com/earth-insights/samroadplus).
-- **[Change Captioning]** [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Captioning](https://arxiv.org/abs/2410.23946), Ruixun Liu\*, **Kaiyu Li\***, Jiayi Song\*, Dongwei Sun, Xiangyong Cao. arXiv 2024. [Code](https://github.com/liuruixun/MV-cc).
+<!-- - **[Change Captioning]** [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Captioning](https://arxiv.org/abs/2410.23946), Ruixun Liu\*, **Kaiyu Li\***, Jiayi Song\*, Dongwei Sun, Xiangyong Cao. arXiv 2024. [Code](https://github.com/liuruixun/MV-cc). -->
 - **[Agriculture]** [RepDI: A light-weight CPU network for apple leaf disease identification](https://www.sciencedirect.com/science/article/abs/pii/S0168169923005100), Jiye Zheng, **Kaiyu Li†**, Wenbin Wu, Huaijun Ruan. COMPAG 2023. [Code](https://github.com/likyoo/RepDI).
 - **[Skeleton Extraction]** [CAMION: Cascade Multi-input Multi-output Network for Skeleton Extraction](https://openaccess.thecvf.com/content/CVPR2022W/DLGC/html/Fang_CAMION_Cascade_Multi-Input_Multi-Output_Network_for_Skeleton_Extraction_CVPRW_2022_paper.html), Sheng Fang, **Kaiyu Li†**, Zhe Li. CVPRW 2022.
 - **[Multi-modal Remote Sensing]** [S²ENet: Spatial–Spectral Cross-Modal Enhancement Network for Classification of Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/abstract/document/9583936), Sheng Fang, **Kaiyu Li†**, Zhe Li. GRSL 2022. [Code](https://github.com/likyoo/Multimodal-Remote-Sensing-Toolkit). 🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>
