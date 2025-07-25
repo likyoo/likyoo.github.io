@@ -117,7 +117,7 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2021</div><img src='images/snunet.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2021</div><img src='images/snunet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SNUNet-CD: A densely connected Siamese network for change detection of VHR images](https://ieeexplore.ieee.org/abstract/document/9355573) \\
@@ -130,8 +130,9 @@ Sheng Fang, **Kaiyu Li†**, Jinyuan Shao, Zhe Li
 - We propose a densely connected siamese network for change detection, namely SNUNet-CD (the combination of Siamese network and NestedUNet). SNUNet-CD alleviates the loss of localization information in the deep layers of neural network through compact information transmission between encoder and decoder, and between decoder and decoder.
 - Ensemble Channel Attention Module (ECAM) is  proposed for deep supervision.
 </div>
-</div>
+</div> -->
 
+- **[Supervised Change Detection]** [SNUNet-CD: A densely connected Siamese network for change detection of VHR images](https://ieeexplore.ieee.org/abstract/document/9355573), Sheng Fang, **Kaiyu Li†**, Jinyuan Shao, Zhe Li. GRSL 2021. 🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>. [Code](https://github.com/likyoo/Siam-NestedUNet) ![](https://img.shields.io/github/stars/likyoo/Siam-NestedUNet?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:9yKSN-GCB0IC'></span></strong>.
 - **[Change Captioning]** [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Captioning](https://arxiv.org/abs/2410.23946), Ruixun Liu\*, **Kaiyu Li\***, Jiayi Song\*, Dongwei Sun, Xiangyong Cao. arXiv 2024. [Code](https://github.com/liuruixun/MV-cc).
 
 <!-- ## Multi-modal Remote Sensing
