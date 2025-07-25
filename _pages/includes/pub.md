@@ -104,7 +104,7 @@ Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/changer.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/changer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Changer: Feature interaction is what you need for change detection](https://arxiv.org/abs/2209.08290) \\
 Sheng Fang, **Kaiyu Li†**, Zhe Li
@@ -115,7 +115,7 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
   - We propose a novel general change detection architecture, MetaChanger, which includes a series of alternative interaction layers in the feature extractor.
   - To verify the effectiveness of MetaChanger, we propose two derived models, ChangerAD and ChangerEx with simple interaction strategies: Aggregation-Distribution (AD) and “exchange”. AD is abstracted from some complex interaction methods, and **“exchange” is a completely parameter & computation-free operation by exchanging bi-temporal features**.
 </div>
-</div>
+</div> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2021</div><img src='images/snunet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -132,6 +132,7 @@ Sheng Fang, **Kaiyu Li†**, Jinyuan Shao, Zhe Li
 </div>
 </div> -->
 
+- **[Supervised Change Detection]** [Changer: Feature interaction is what you need for change detection](https://arxiv.org/abs/2209.08290), Sheng Fang, **Kaiyu Li†**, Zhe Li. TGRS 2023. 🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>. [Code](https://github.com/likyoo/open-cd) ![](https://img.shields.io/github/stars/likyoo/open-cd?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:IjCSPb-OGe4C'></span></strong>.
 - **[Supervised Change Detection]** [SNUNet-CD: A densely connected Siamese network for change detection of VHR images](https://ieeexplore.ieee.org/abstract/document/9355573), Sheng Fang, **Kaiyu Li†**, Jinyuan Shao, Zhe Li. GRSL 2021. 🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>. [Code](https://github.com/likyoo/Siam-NestedUNet) ![](https://img.shields.io/github/stars/likyoo/Siam-NestedUNet?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:9yKSN-GCB0IC'></span></strong>.
 - **[Change Captioning]** [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Captioning](https://arxiv.org/abs/2410.23946), Ruixun Liu\*, **Kaiyu Li\***, Jiayi Song\*, Dongwei Sun, Xiangyong Cao. arXiv 2024. [Code](https://github.com/liuruixun/MV-cc).
 
