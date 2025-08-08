@@ -12,7 +12,8 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 [SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model](https://arxiv.org/abs/2504.09644) \\
 **Kaiyu Li**, Zepeng Xin, Li Pang, Chao Pang, Yupeng Deng, Jing Yao, Guisong Xia, Deyu Meng, Zhi Wang, Xiangyong Cao
 
-[**Project**](https://earth-insights.github.io/SegEarth-R1) | [**Code**](https://github.com/earth-insights/SegEarth-R1) ![](https://img.shields.io/github/stars/earth-insights/SegEarth-R1?style=social) | [**Dataset**]()
+[**Project**](https://earth-insights.github.io/SegEarth-R1) | [**Code**](https://github.com/earth-insights/SegEarth-R1) ![](https://img.shields.io/github/stars/earth-insights/SegEarth-R1?style=social) | [**Dataset**](https://huggingface.co/datasets/earth-insights/EarthReason)
+
   - We introduce the geospatial pixel reasoning task, construct the first benchmark dataset (EarthReason), and propose a simple yet effective baseline (SegEarth-R1).
 
 **Media coverage:**<span style="font-size: 12px;"> [【遥感与深度学习】SegEarth-R1: 遥感+推理大模型！Geospatial Pixel Reasoning](https://mp.weixin.qq.com/s/qu_Agarhj8nqcjWv7ZA7YQ)|[【视觉与遥感前沿】SegEarth-R1实现地理推理「类人思考」](https://mp.weixin.qq.com/s/9XL49Sa7nj1KMTjbRXFrXw)|[【减论】](https://mp.weixin.qq.com/s/eVDl4im-_op8svPGtd8jnA)|</span>
@@ -28,7 +29,8 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 [SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images](https://arxiv.org/abs/2410.01768) \\
 **Kaiyu Li**, Ruixun Liu, Xiangyong Cao, Xueru Bai, Feng Zhou, Deyu Meng, Zhi Wang
 
-[**Project**](https://likyoo.github.io/SegEarth-OV) | [**Code**](https://github.com/likyoo/SegEarth-OV) ![](https://img.shields.io/github/stars/likyoo/SegEarth-OV?style=social) | [**Demo**](https://colab.research.google.com/drive/1a-NNz_2maesvszk4Xff5PKY02_moPqt6#scrollTo=Pz9QGEcFBGtK)
+[**Project**](https://likyoo.github.io/SegEarth-OV) | [**Code**](https://github.com/likyoo/SegEarth-OV) ![](https://img.shields.io/github/stars/likyoo/SegEarth-OV?style=social) | [**Demo**](https://colab.research.google.com/drive/1a-NNz_2maesvszk4Xff5PKY02_moPqt6#scrollTo=Pz9QGEcFBGtK) | [**Bilibili**](https://www.bilibili.com/video/BV1pauJzvEo2?spm_id_from=333.1387.collection.video_card.click) | [**Youtube**](https://www.youtube.com/watch?v=xpR7iKW1lSs)
+
   - SegEarth-OV is the first to introduce training-free Open Vocabulary Semantic Segmentation into remote sensing images, which makes OVSS possible in remote sensing contexts.
 
 **Media coverage:**<span style="font-size: 12px;"> [【遥感与深度学习】SegEarth-OV: 面向遥感图像的无训练开放词汇分割](https://mp.weixin.qq.com/s/9QjsMNO4VbF4oc3lKi6IMg)|[【GISer阿兴】](https://mp.weixin.qq.com/s/sm6hGJCIfKMmnlZEZkuh9A)|[【减论】](https://mp.weixin.qq.com/s/MnhDCOJP4nUoEg_A8QXuNw)|</span>

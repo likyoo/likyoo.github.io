@@ -1,7 +1,11 @@
 # 🔗 Academic Service
-**Journal Reviewer**
 
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
+**Reviewer**
+
+- **Journal:** TPAMI, TIP, TGRS, TNNLS, TCSVT, GRSL, TGSI, JSTARS, ...
+- **Conference:** CVPR, ICCV, NeurIPS, AAAI, ACMMM, IGARSS, ...
+
+<!--- IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
 - IEEE Transactions on Image Processing (**TIP**)
 - IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)
 - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
@@ -15,7 +19,8 @@
 - Conference on Computer Vision and Pattern Recognition (**CVPR**)
 - International Conference on Computer Vision (**ICCV**)
 - Conference on Neural Information Processing Systems (**NeurIPS**)
+- AAAI Conference on Artificial Intelligence (**AAAI**)
 - ACM International Conference on Multimedia (**ACMMM**)
 - Conference on Computer Vision and Pattern Recognition, Deep Learning for Geometric Computing (**CVPR DLGC**)
-- International Geoscience and Remote Sensing Symposium (**IGARSS**)
+- International Geoscience and Remote Sensing Symposium (**IGARSS**)-->
 
