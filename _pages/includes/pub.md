@@ -28,7 +28,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 [SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images](https://arxiv.org/abs/2410.01768) \\
 **Kaiyu Li**, Ruixun Liu, Xiangyong Cao, Xueru Bai, Feng Zhou, Deyu Meng, Zhi Wang
 
-[**Project**](https://likyoo.github.io/SegEarth-OV) | [**Bilibili**](https://www.bilibili.com/video/BV1pauJzvEo2?spm_id_from=333.1387.collection.video_card.click) | [**Youtube**](https://www.youtube.com/watch?v=xpR7iKW1lSs) | [**Code**](https://github.com/likyoo/SegEarth-OV) ![](https://img.shields.io/github/stars/likyoo/SegEarth-OV?style=social) 
+[**Project**](https://likyoo.github.io/SegEarth-OV) | [**Bilibili**](https://www.bilibili.com/video/BV1pauJzvEo2?spm_id_from=333.1387.collection.video_card.click) | [**Code**](https://github.com/likyoo/SegEarth-OV) ![](https://img.shields.io/github/stars/likyoo/SegEarth-OV?style=social)
 
   - SegEarth-OV is the first to introduce training-free Open Vocabulary Semantic Segmentation into remote sensing images, which makes OVSS possible in remote sensing contexts.
 
