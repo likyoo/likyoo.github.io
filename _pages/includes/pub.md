@@ -28,7 +28,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 [SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images](https://arxiv.org/abs/2410.01768) \\
 **Kaiyu Li**, Ruixun Liu, Xiangyong Cao, Xueru Bai, Feng Zhou, Deyu Meng, Zhi Wang
 
-[**Project**](https://likyoo.github.io/SegEarth-OV) | [**Bilibili**](https://www.bilibili.com/video/BV1pauJzvEo2?spm_id_from=333.1387.collection.video_card.click) | [**Code**](https://github.com/likyoo/SegEarth-OV) ![](https://img.shields.io/github/stars/likyoo/SegEarth-OV?style=social)
+[**Project**](https://likyoo.github.io/SegEarth-OV) | [**Code**](https://github.com/likyoo/SegEarth-OV) ![](https://img.shields.io/github/stars/likyoo/SegEarth-OV?style=social) | [**Bilibili**](https://www.bilibili.com/video/BV1pauJzvEo2?spm_id_from=333.1387.collection.video_card.click) | [**Youtube**](https://www.youtube.com/watch?v=xpR7iKW1lSs) | [**Demo**](https://colab.research.google.com/drive/1a-NNz_2maesvszk4Xff5PKY02_moPqt6#scrollTo=Pz9QGEcFBGtK)
   - SegEarth-OV is the first to introduce training-free Open Vocabulary Semantic Segmentation into remote sensing images, which makes OVSS possible in remote sensing contexts.
 
 **Media coverage:**<span style="font-size: 12px;"> [【遥感与深度学习】SegEarth-OV: 面向遥感图像的无训练开放词汇分割](https://mp.weixin.qq.com/s/9QjsMNO4VbF4oc3lKi6IMg)|[【GISer阿兴】](https://mp.weixin.qq.com/s/sm6hGJCIfKMmnlZEZkuh9A)|[【减论】](https://mp.weixin.qq.com/s/MnhDCOJP4nUoEg_A8QXuNw)|</span>
@@ -156,6 +156,7 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 
 <!-- - **[Semi-supervised Segmentation]** [RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2506.08772), Jiayi Song\*, **Kaiyu Li\***, Xiangyong Cao, Deyu Meng. arXiv 2025. [Code](https://github.com/earth-insights/RS-MTDF). -->
 
+- **[Remote Sensing Vector Map Dataset]** [IRSAMAP: A Large-Scale, High-Resolution, Multi-Class Vector Map Dataset for Remote Sensing](https://ieeexplore.ieee.org/document/11129926), Yu Meng, Ligao Deng, Zhihao Xi, Jiansheng Chen, Jingbo Chen, Anzhi Yue, Diyou Liu, Kai Li, Chenhao Wang, Kaiyu Li, Yupeng Deng, Xian Sun. TGRS'2025. [Dataset](https://github.com/ucas-dlg/IRSAMap).
 - **[UAV Tracking]** [Dist-Tracker: A Small Object-aware Detector and Tracker for UAV Tracking](https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/html/Wang_Dist-Tracker_A_Small_Object-aware_Detector_and_Tracker_for_UAV_Tracking_CVPRW_2025_paper.html), Wenzhen Wang\*, Jing Fu\*, Jiayi Song\*, **Kaiyu Li\***, Hui Qiao, Jiang Liu, Hao Sun, Xiangyong Cao. CVPRW 2025. [Code](https://github.com/earth-insights/Dist-Tracker).
 - **[Zero-shot Hyperspectral Image Classification]** [SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP](https://arxiv.org/abs/2501.16222), Li Pang, Jing Yao, **Kaiyu Li**, Xiangyong Cao. arXiv 2025. [Code](https://github.com/LiPang/SPECIAL).
 - **[Road Graph Extraction]** [Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method](https://arxiv.org/abs/2411.16733), Pan Yin\*, **Kaiyu Li\***, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng. CVPR 2025. [Code](https://github.com/earth-insights/samroadplus).

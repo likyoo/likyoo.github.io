@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I am a first-year Ph.D. student at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/).
+I am a second-year Ph.D. student at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/).
 
 # 🔍Research Topics
 
