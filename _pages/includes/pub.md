@@ -4,6 +4,19 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 
 ## Rmote Sensing Image Segmentation
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/segearth_ov2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images](https://arxiv.org/abs/2508.18067) \\
+**Kaiyu Li**, Xiangyong Cao, Ruixun Liu, Shihong Wang, Zixuan Jiang, Zhi Wang, Deyu Meng
+
+[**Code**](https://github.com/earth-insights/SegEarth-OV-2) ![](https://img.shields.io/github/stars/earth-insights/SegEarth-OV-2)
+  - We extend SegEarth-OV to SAR images. This is the first open vocabulary semantic segmentation task for SAR images.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/segearth_r1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
