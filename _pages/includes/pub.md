@@ -12,7 +12,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 **Kaiyu Li**, Xiangyong Cao, Ruixun Liu, Shihong Wang, Zixuan Jiang, Zhi Wang, Deyu Meng
 
 [**Code**](https://github.com/earth-insights/SegEarth-OV-2) ![](https://img.shields.io/github/stars/earth-insights/SegEarth-OV-2)
-  - We extend [SegEarth-OV](https://likyoo.github.io/SegEarth-OV) to SAR images. This is the first open vocabulary semantic segmentation task for SAR images.
+  - We extend [SegEarth-OV](https://likyoo.github.io/SegEarth-OV) to SAR images. This is the first open vocabulary semantic segmentation work for SAR images.
 
 </div>
 </div>
