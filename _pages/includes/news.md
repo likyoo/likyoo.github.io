@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.09*: 微信公众号"[地球洞察](https://mp.weixin.qq.com/s/Zhy89_G6OaFQn7bsaRIWog)" is now operational. We will promptly publish quick overviews of the latest RS&DL-related research papers.
+- *2025.09*: 微信公众号“[地球洞察](https://mp.weixin.qq.com/s/Zhy89_G6OaFQn7bsaRIWog)” is now operational. We will promptly publish quick overviews of the latest RS&DL-related research papers.
 - *2025.07*: [Open-CD](https://github.com/likyoo/open-cd) is accepted by ACM MM 2025.
 - *2025.06*: We get the [VALSE 2025 "Popular Poster" award](https://valser.org/2025/#/poster) (11/398) !
 - *2025.04*: One paper on UAV tracking is accepted by CVPR 2025 Anti-UAV2025 workshop.
