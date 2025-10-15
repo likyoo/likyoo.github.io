@@ -167,9 +167,23 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 
 ## Others
 
-<!-- - **[Semi-supervised Segmentation]** [RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2506.08772), Jiayi Song\*, **Kaiyu Li\***, Xiangyong Cao, Deyu Meng. arXiv 2025. [Code](https://github.com/earth-insights/RS-MTDF). -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/describeearth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- **[Geo-spatial Detailed Localized Captioning]** [DescribeEarth: Describe Anything for Remote Sensing Images](https://arxiv.org/abs/2509.25654), **Kaiyu Li**, Zixuan Jiang, Xiangyong Cao, Jiayu Wang, Yuchen Xiao, Deyu Meng, Zhi Wang. arXiv'2025. [Code](https://github.com/earth-insights/DescribeEarth), [Dataset](https://huggingface.co/datasets/earth-insights/DE-Dataset) and [Benchmark](https://huggingface.co/datasets/earth-insights/DE-Benchmark).
+[DescribeEarth: Describe Anything for Remote Sensing Images](https://arxiv.org/abs/2509.25654) \\
+**Kaiyu Li**, Zixuan Jiang, Xiangyong Cao, Jiayu Wang, Yuchen Xiao, Deyu Meng, Zhi Wang
+
+[**Dataset**](https://huggingface.co/datasets/earth-insights/DE-Dataset) |  [**Benchmark**](https://huggingface.co/datasets/earth-insights/DE-Benchmark) | [**Code**](https://github.com/earth-insights/DescribeEarth) ![](https://img.shields.io/github/stars/earth-insights/DescribeEarth?style=social)
+  - We introduce geo-spatial detailed localized captioning.
+  - We build the first describe anything model in remote sensing.
+  - We release the related dataset and benchmark.
+
+**Media coverage:**<span style="font-size: 12px;"> [【遥感与深度学习】DescribeEarth: 西交团队提出遥感描述一切模型, 鼠标轻点即得目标详细描述.](https://mp.weixin.qq.com/s/qhFIZ6QMmikZ9L7q3cKFaw)|[【码科智能】万物皆可描述！遥感图像描述进入对象级细粒度理解时代](https://mp.weixin.qq.com/s/FjmlKo0EkEzXhAk82AdeFQ)|[【CV炼丹术】DescribeEarth：西安交大最新论文——面向遥感图像的细粒度对象描述新范式！](https://mp.weixin.qq.com/s/LfGuwxEoIwpEOZXAi6w0fg)|</span>
+
+</div>
+</div>
+
+
 - **[Remote Sensing Vector Map Dataset]** [IRSAMAP: A Large-Scale, High-Resolution, Multi-Class Vector Map Dataset for Remote Sensing](https://ieeexplore.ieee.org/document/11129926), Yu Meng, Ligao Deng, Zhihao Xi, Jiansheng Chen, Jingbo Chen, Anzhi Yue, Diyou Liu, Kai Li, Chenhao Wang, **Kaiyu Li**, Yupeng Deng, Xian Sun. TGRS'2025. [Dataset](https://github.com/ucas-dlg/IRSAMap).
 - **[UAV Tracking]** [Dist-Tracker: A Small Object-aware Detector and Tracker for UAV Tracking](https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/html/Wang_Dist-Tracker_A_Small_Object-aware_Detector_and_Tracker_for_UAV_Tracking_CVPRW_2025_paper.html), Wenzhen Wang\*, Jing Fu\*, Jiayi Song\*, **Kaiyu Li\***, Hui Qiao, Jiang Liu, Hao Sun, Xiangyong Cao. CVPRW 2025. [Code](https://github.com/earth-insights/Dist-Tracker).
 - **[Zero-shot Hyperspectral Image Classification]** [SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP](https://arxiv.org/abs/2501.16222), Li Pang, Jing Yao, **Kaiyu Li**, Xiangyong Cao. arXiv 2025. [Code](https://github.com/LiPang/SPECIAL).
