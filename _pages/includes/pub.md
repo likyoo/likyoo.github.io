@@ -69,7 +69,7 @@ Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao
 
 ## Remote Sensing Image Change Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/dynamicearth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/dynamicearth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DynamicEarth: How Far are We from Open-Vocabulary Change Detection?](https://arxiv.org/abs/2501.12931) \\

@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.11*: [DynamicEarth](https://likyoo.github.io/DynamicEarth/) is accepted by AAAI 2026 (<b><font color="red">Oral</font></b>) ! 🎉🎉🎉
 - *2025.10*: I get the National Scholarship of Ph.D. (博士生国家奖学金) ! 🎉
 - *2025.09*: 微信公众号“[地球洞察](https://mp.weixin.qq.com/s/Zhy89_G6OaFQn7bsaRIWog)” is now operational. We will promptly publish quick overviews of the latest RS&DL-related research papers.
 - *2025.07*: [Open-CD](https://github.com/likyoo/open-cd) is accepted by ACM MM 2025.
