@@ -167,7 +167,7 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 
 ## Others
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/EarthAgent.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/EarthAgent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Designing Domain-Specific Agents via Hierarchical Task Abstraction Mechanism](https://arxiv.org/abs/2511.17198) \\
@@ -175,7 +175,8 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 
 [**Project**](https://earth-insights.github.io/EarthAgent) |  [**GeoPlan-bench**](https://github.com/earth-insights/GeoPlan-bench) ![](https://img.shields.io/github/stars/earth-insights/GeoPlan-bench?style=social) | [**EarthAgent Code**](https://github.com/earth-insights/EarthAgent) ![](https://img.shields.io/github/stars/earth-insights/EarthAgent?style=social)
   - We propose HTAM for designing domain-specific agents, instantiate this framework in the remote sensing field as EarthAgent, and introduce a comprehensive evaluation platform, GeoPlan-bench, to assess complex remote sensing planning capabilities.
-
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/describeearth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
