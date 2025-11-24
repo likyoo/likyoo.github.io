@@ -50,9 +50,9 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 </div>
 
 
-- **[Semi-supervised Segmentation]** [RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2506.08772), Jiayi Song\*, **Kaiyu Li\***, Xiangyong Cao, Deyu Meng. arXiv 2025. [Code](https://github.com/earth-insights/RS-MTDF).
+- **[Semi-supervised Segmentation]** [RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2506.08772), Jiayi Song\*, **Kaiyu Li\***, Xiangyong Cao, Deyu Meng. arXiv 2025. [Code](https://github.com/earth-insights/RS-MTDF). (Supervised project)
 
-- **[Few-shot Segmentation]** [Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](https://arxiv.org/abs/2404.05111), Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao. CVPRW'2024. [Code](https://github.com/earth-insights/ClassTrans). 🏆️The 2nd place in the [CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge](https://cliffbb.github.io/OEM-Fewshot-Challenge/).
+- **[Few-shot Segmentation]** [Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](https://arxiv.org/abs/2404.05111), Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao. CVPRW'2024. [Code](https://github.com/earth-insights/ClassTrans). 🏆️The 2nd place in the [CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge](https://cliffbb.github.io/OEM-Fewshot-Challenge/). (Supervised project)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/classtrans.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -147,7 +147,7 @@ Sheng Fang, **Kaiyu Li†**, Jinyuan Shao, Zhe Li
 
 - **[Supervised Change Detection]** [Changer: Feature interaction is what you need for change detection](https://arxiv.org/abs/2209.08290), Sheng Fang, **Kaiyu Li†**, Zhe Li. TGRS 2023. 🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>. [Code](https://github.com/likyoo/open-cd) ![](https://img.shields.io/github/stars/likyoo/open-cd?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:IjCSPb-OGe4C'></span></strong>.
 - **[Supervised Change Detection]** [SNUNet-CD: A densely connected Siamese network for change detection of VHR images](https://ieeexplore.ieee.org/abstract/document/9355573), Sheng Fang, **Kaiyu Li†**, Jinyuan Shao, Zhe Li. GRSL 2021. 🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>. [Code](https://github.com/likyoo/Siam-NestedUNet) ![](https://img.shields.io/github/stars/likyoo/Siam-NestedUNet?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:9yKSN-GCB0IC'></span></strong>.
-- **[Change Captioning]** [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Captioning](https://arxiv.org/abs/2410.23946), Ruixun Liu\*, **Kaiyu Li\***, Jiayi Song\*, Dongwei Sun, Xiangyong Cao. arXiv 2024. [Code](https://github.com/liuruixun/MV-cc).
+- **[Change Captioning]** [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Captioning](https://arxiv.org/abs/2410.23946), Ruixun Liu\*, **Kaiyu Li\***, Jiayi Song\*, Dongwei Sun, Xiangyong Cao. arXiv 2024. [Code](https://github.com/liuruixun/MV-cc). (Supervised project)
 
 <!-- ## Multi-modal Remote Sensing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><img src='images/s2enet.png' alt="sym" width="100%"></div></div>
@@ -167,11 +167,21 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 
 ## Others
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/EarthAgent.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Designing Domain-Specific Agents via Hierarchical Task Abstraction Mechanism](https://arxiv.org/abs/2511.17198) \\
+**Kaiyu Li\***, Jiayu Wang*, Zhi Wang, Hui Qiao, Weizhan Zhang, Deyu Meng, Xiangyong Cao
+
+[**Project**](https://earth-insights.github.io/EarthAgent) |  [**GeoPlan-bench**](https://github.com/earth-insights/GeoPlan-bench) ![](https://img.shields.io/github/stars/earth-insights/GeoPlan-bench?style=social) | [**EarthAgent Code**](https://github.com/earth-insights/EarthAgent) ![](https://img.shields.io/github/stars/earth-insights/EarthAgent?style=social)
+  - We propose HTAM for designing domain-specific agents, instantiate this framework in the remote sensing field as EarthAgent, and introduce a comprehensive evaluation platform, GeoPlan-bench, to assess complex remote sensing planning capabilities.
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/describeearth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DescribeEarth: Describe Anything for Remote Sensing Images](https://arxiv.org/abs/2509.25654) \\
-**Kaiyu Li**, Zixuan Jiang, Xiangyong Cao, Jiayu Wang, Yuchen Xiao, Deyu Meng, Zhi Wang
+**Kaiyu Li\***, Zixuan Jiang*, Xiangyong Cao, Jiayu Wang, Yuchen Xiao, Deyu Meng, Zhi Wang
 
 [**Dataset**](https://huggingface.co/datasets/earth-insights/DE-Dataset) |  [**Benchmark**](https://huggingface.co/datasets/earth-insights/DE-Benchmark) | [**Code**](https://github.com/earth-insights/DescribeEarth) ![](https://img.shields.io/github/stars/earth-insights/DescribeEarth?style=social)
   - We introduce geo-spatial detailed localized captioning.
@@ -184,10 +194,11 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 </div>
 
 
+- **[Remote Sening MLLM]** [ZoomEarth: Active Perception for Ultra-High-Resolution Geospatial Vision-Language Tasks](https://arxiv.org/abs/2511.12267), Ruixun Liu*, Bowen Fu*, Jiayi Song, **Kaiyu Li**, Wanchen Li, Lanxuan Xue, Hui Qiao, Weizhan Zhang, Deyu Meng, Xiangyong Cao. arXiv'2025. [Project](https://earth-insights.github.io/ZoomEarth/). (Supervised project)
 - **[Remote Sensing Vector Map Dataset]** [IRSAMAP: A Large-Scale, High-Resolution, Multi-Class Vector Map Dataset for Remote Sensing](https://ieeexplore.ieee.org/document/11129926), Yu Meng, Ligao Deng, Zhihao Xi, Jiansheng Chen, Jingbo Chen, Anzhi Yue, Diyou Liu, Kai Li, Chenhao Wang, **Kaiyu Li**, Yupeng Deng, Xian Sun. TGRS'2025. [Dataset](https://github.com/ucas-dlg/IRSAMap).
-- **[UAV Tracking]** [Dist-Tracker: A Small Object-aware Detector and Tracker for UAV Tracking](https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/html/Wang_Dist-Tracker_A_Small_Object-aware_Detector_and_Tracker_for_UAV_Tracking_CVPRW_2025_paper.html), Wenzhen Wang\*, Jing Fu\*, Jiayi Song\*, **Kaiyu Li\***, Hui Qiao, Jiang Liu, Hao Sun, Xiangyong Cao. CVPRW 2025. [Code](https://github.com/earth-insights/Dist-Tracker).
+- **[UAV Tracking]** [Dist-Tracker: A Small Object-aware Detector and Tracker for UAV Tracking](https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/html/Wang_Dist-Tracker_A_Small_Object-aware_Detector_and_Tracker_for_UAV_Tracking_CVPRW_2025_paper.html), Wenzhen Wang\*, Jing Fu\*, Jiayi Song\*, **Kaiyu Li\***, Hui Qiao, Jiang Liu, Hao Sun, Xiangyong Cao. CVPRW 2025. [Code](https://github.com/earth-insights/Dist-Tracker). (Supervised project)
 - **[Zero-shot Hyperspectral Image Classification]** [SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP](https://arxiv.org/abs/2501.16222), Li Pang, Jing Yao, **Kaiyu Li**, Xiangyong Cao. arXiv 2025. [Code](https://github.com/LiPang/SPECIAL).
-- **[Road Graph Extraction]** [Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method](https://arxiv.org/abs/2411.16733), Pan Yin\*, **Kaiyu Li\***, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng. CVPR 2025. [Code](https://github.com/earth-insights/samroadplus).
+- **[Road Graph Extraction]** [Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method](https://arxiv.org/abs/2411.16733), Pan Yin\*, **Kaiyu Li\***, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng. CVPR 2025. [Code](https://github.com/earth-insights/samroadplus). (Supervised project)
 <!-- - **[Change Captioning]** [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Captioning](https://arxiv.org/abs/2410.23946), Ruixun Liu\*, **Kaiyu Li\***, Jiayi Song\*, Dongwei Sun, Xiangyong Cao. arXiv 2024. [Code](https://github.com/liuruixun/MV-cc). -->
 - **[Agriculture]** [RepDI: A light-weight CPU network for apple leaf disease identification](https://www.sciencedirect.com/science/article/abs/pii/S0168169923005100), Jiye Zheng, **Kaiyu Li†**, Wenbin Wu, Huaijun Ruan. COMPAG 2023. [Code](https://github.com/likyoo/RepDI).
 - **[Skeleton Extraction]** [CAMION: Cascade Multi-input Multi-output Network for Skeleton Extraction](https://openaccess.thecvf.com/content/CVPR2022W/DLGC/html/Fang_CAMION_Cascade_Multi-Input_Multi-Output_Network_for_Skeleton_Extraction_CVPRW_2022_paper.html), Sheng Fang, **Kaiyu Li†**, Zhe Li. CVPRW 2022.
