@@ -1,5 +1,6 @@
 # 🎖 Honors and Awards
-- 2025，National Scholarship of Ph.D., Ministry of Education \| 博士生国家奖学金
+- 2025, 中国科协青年科技人才培育工程博士生专项, 2025-2028
+- 2025, National Scholarship of Ph.D., Ministry of Education \| 博士生国家奖学金
 - 2025, Outstanding Master's Degree Thesis of Shandong Province, Shandong Provincial Department of Education \| 2024年山东省优秀硕士学位论文 (山东省教育厅) \| [公示](http://edu.shandong.gov.cn/art/2025/1/8/art_11982_10336266.html)
 - 2024, Outstanding Master's Degree Thesis Award of "Inspur Rising Star Cup", Shandong Computer Federation \| 山东计算机学会“浪潮新星杯”优秀硕士学位论文奖 (30人/每年) \| [公示](http://www.sd-cf.com.cn/info/933.jspx)
 - 2023, Outstanding Graduate Student, Shandong University of Science and Technology \| 山东科技大学优秀毕业研究生
