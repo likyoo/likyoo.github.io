@@ -18,13 +18,13 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 [Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images](https://arxiv.org/abs/2508.18067) (arXiv'2025) \\
 **Kaiyu Li**, Xiangyong Cao, Ruixun Liu, Shihong Wang, Zixuan Jiang, Zhi Wang, Deyu Meng
 
-[**Code**](https://github.com/earth-insights/SegEarth-OV-2) ![](https://img.shields.io/github/stars/earth-insights/SegEarth-OV-2)
+[**Code**](https://github.com/earth-insights/SegEarth-OV-2) ![](https://img.shields.io/github/stars/earth-insights/SegEarth-OV-2?style=social)
   - We extend [SegEarth-OV](https://likyoo.github.io/SegEarth-OV) to SAR images. This is the first open vocabulary semantic segmentation work for SAR images.
 
 [SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730) (arXiv'2025) \\
 **Kaiyu Li**, Shengqi Zhang, Yupeng Deng, Zhi Wang, Deyu Meng, Xiangyong Cao
 
-[**Code**](https://github.com/earth-insights/SegEarth-OV-3) ![](https://img.shields.io/github/stars/earth-insights/SegEarth-OV-3)
+[**Code**](https://github.com/earth-insights/SegEarth-OV-3) ![](https://img.shields.io/github/stars/earth-insights/SegEarth-OV-3?style=social)
   - We adapte SAM 3 for remote sensing OVSS.
 
 **Media coverage:**<span style="font-size: 12px;"> [【遥感与深度学习】SegEarth-OV: 面向遥感图像的无训练开放词汇分割](https://mp.weixin.qq.com/s/9QjsMNO4VbF4oc3lKi6IMg)|[【GISer阿兴】](https://mp.weixin.qq.com/s/sm6hGJCIfKMmnlZEZkuh9A)|[【减论】](https://mp.weixin.qq.com/s/MnhDCOJP4nUoEg_A8QXuNw)| [【遥感与深度学习】SegEarth-OV2: 西安交大团队提出无标注遥感图像开放词汇语义分割框架](https://mp.weixin.qq.com/s/UH1vVQgceVu_JMR04tAeXA) | [SegEarthOV3: 探索SAM 3在遥感图像开放词汇语义分割中的应用](https://mp.weixin.qq.com/s/UpBSKHe5IGPGi_4dlDblUg) | [2025年50周最高人气论文：西交曹相湧、孟德宇团队SegEarth-OV3！](https://mp.weixin.qq.com/s/iOudJCET9EaK_ygbpJwzVQ) </span>
