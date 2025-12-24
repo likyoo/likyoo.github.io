@@ -5,7 +5,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 ## Rmote Sensing Image Segmentation
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.2em;"><b>SegEarth-OV series</b></div><img src='images/segearth_ov_series.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em;"><b>SegEarth-OV series</b></div><img src='images/segearth_ov_series.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -33,7 +33,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.2em;"><b>SegEarth-R series</b></div><img src='images/segearth_r_series.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em;"><b>SegEarth-R series</b></div><img src='images/segearth_r_series.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model](https://arxiv.org/abs/2504.09644) (arXiv'2025) \\
@@ -52,52 +52,6 @@ Zepeng Xin\*, **Kaiyu Li\***, Luodi Chen, Wanchen Li, Yuchen Xiao, Hui Qiao, Wei
 
 </div>
 </div>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/segearth_ov2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-[Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images](https://arxiv.org/abs/2508.18067) \\
-**Kaiyu Li**, Xiangyong Cao, Ruixun Liu, Shihong Wang, Zixuan Jiang, Zhi Wang, Deyu Meng
-
-[**Code**](https://github.com/earth-insights/SegEarth-OV-2) ![](https://img.shields.io/github/stars/earth-insights/SegEarth-OV-2)
-  - We extend [SegEarth-OV](https://likyoo.github.io/SegEarth-OV) to SAR images. This is the first open vocabulary semantic segmentation work for SAR images.
-
-</div>
-</div> -->
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/segearth_r1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-[SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model](https://arxiv.org/abs/2504.09644) \\
-**Kaiyu Li**, Zepeng Xin, Li Pang, Chao Pang, Yupeng Deng, Jing Yao, Guisong Xia, Deyu Meng, Zhi Wang, Xiangyong Cao
-
-[**Project**](https://earth-insights.github.io/SegEarth-R1) | [**Dataset**](https://huggingface.co/datasets/earth-insights/EarthReason) | [**Code**](https://github.com/earth-insights/SegEarth-R1) ![](https://img.shields.io/github/stars/earth-insights/SegEarth-R1?style=social)
-  - We introduce the geospatial pixel reasoning task, construct the first benchmark dataset (EarthReason), and propose a simple yet effective baseline (SegEarth-R1).
-
-**Media coverage:**<span style="font-size: 12px;"> [【遥感与深度学习】SegEarth-R1: 遥感+推理大模型！Geospatial Pixel Reasoning](https://mp.weixin.qq.com/s/qu_Agarhj8nqcjWv7ZA7YQ)|[【视觉与遥感前沿】SegEarth-R1实现地理推理「类人思考」](https://mp.weixin.qq.com/s/9XL49Sa7nj1KMTjbRXFrXw)|[【减论】](https://mp.weixin.qq.com/s/eVDl4im-_op8svPGtd8jnA)|</span>
-
-</div>
-</div> -->
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 <b>Oral</b></div><img src='images/segearth_ov.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-[SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images](https://arxiv.org/abs/2410.01768) \\
-**Kaiyu Li**, Ruixun Liu, Xiangyong Cao, Xueru Bai, Feng Zhou, Deyu Meng, Zhi Wang
-
-[**Project**](https://likyoo.github.io/SegEarth-OV) | [**Code**](https://github.com/likyoo/SegEarth-OV) ![](https://img.shields.io/github/stars/likyoo/SegEarth-OV?style=social) | [**Bilibili**](https://www.bilibili.com/video/BV1pauJzvEo2?spm_id_from=333.1387.collection.video_card.click) | [**Youtube**](https://www.youtube.com/watch?v=xpR7iKW1lSs) | [**Demo**](https://colab.research.google.com/drive/1a-NNz_2maesvszk4Xff5PKY02_moPqt6#scrollTo=Pz9QGEcFBGtK)
-  - SegEarth-OV is the first to introduce training-free Open Vocabulary Semantic Segmentation into remote sensing images, which makes OVSS possible in remote sensing contexts.
-
-**Media coverage:**<span style="font-size: 12px;"> [【遥感与深度学习】SegEarth-OV: 面向遥感图像的无训练开放词汇分割](https://mp.weixin.qq.com/s/9QjsMNO4VbF4oc3lKi6IMg)|[【GISer阿兴】](https://mp.weixin.qq.com/s/sm6hGJCIfKMmnlZEZkuh9A)|[【减论】](https://mp.weixin.qq.com/s/MnhDCOJP4nUoEg_A8QXuNw)|</span>
-
-</div>
-</div> -->
-
 
 - **[Semi-supervised Segmentation]** [RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2506.08772), Jiayi Song\*, **Kaiyu Li\***, Xiangyong Cao, Deyu Meng. arXiv 2025. [Code](https://github.com/earth-insights/RS-MTDF). (Project leader)
 
