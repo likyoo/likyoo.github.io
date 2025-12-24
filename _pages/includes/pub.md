@@ -5,7 +5,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 ## Rmote Sensing Image Segmentation
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>SegEarth-OV series</b></div><img src='images/segearth_ov3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.2em;"><b>SegEarth-OV series</b></div><img src='images/segearth_series.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -43,11 +43,11 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
   - We extend [SegEarth-OV](https://likyoo.github.io/SegEarth-OV) to SAR images. This is the first open vocabulary semantic segmentation work for SAR images.
 
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/segearth_r1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box-text' markdown="1">
 
 
 [SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model](https://arxiv.org/abs/2504.09644) \\
