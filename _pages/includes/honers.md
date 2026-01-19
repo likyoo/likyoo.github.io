@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- 2026, 西安交通大学“乐安育才基金”奖学金（西交共20人）
 - 2025, 中国科协青年科技人才培育工程博士生专项, 2025-2028
 - 2025, National Scholarship of Ph.D., Ministry of Education \| 博士生国家奖学金
 - 2025, Outstanding Master's Degree Thesis of Shandong Province, Shandong Provincial Department of Education \| 2024年山东省优秀硕士学位论文 (山东省教育厅) \| [公示](http://edu.shandong.gov.cn/art/2025/1/8/art_11982_10336266.html)
