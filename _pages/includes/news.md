@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.01*: We are launching the [「天眼智境」遥感图像语言引导分割挑战赛 (Track 1)](https://www.codabench.org/competitions/12624/) at [AIRS-2026](http://www.hyterp.cn/website/2079/index.html) “国测海遥杯”. Welcome to participate!🔥
+- *2026.01*: We are launching the [「天眼智境」遥感图像语言引导分割挑战赛 (Track 1)](https://www.codabench.org/competitions/12624/) at [AIRS-2026](https://www.airs.top/) “国测海遥杯”. Welcome to participate!🔥
 - *2025.12*: 入选2025年度中国科协青年科技人才培育工程博士生专项计划 ! 🎉
 - *2025.11*: [DynamicEarth](https://likyoo.github.io/DynamicEarth/) is accepted by AAAI 2026 (<b><font color="red">Oral</font></b>) ! 🎉🎉🎉
 - *2025.10*: I get the National Scholarship of Ph.D. (博士生国家奖学金) ! 🎉
