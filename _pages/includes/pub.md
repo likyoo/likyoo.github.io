@@ -42,7 +42,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 [**Project**](https://earth-insights.github.io/SegEarth-R1) | [**Dataset**](https://huggingface.co/datasets/earth-insights/EarthReason) | [**Code**](https://github.com/earth-insights/SegEarth-R1) ![](https://img.shields.io/github/stars/earth-insights/SegEarth-R1?style=social)
   - We introduce the geospatial pixel reasoning task, construct the first benchmark dataset (EarthReason), and propose a simple yet effective baseline (SegEarth-R1).
 
-[SegEarth-R2: Towards Comprehensive Language-guided Segmentation for Remote Sensing Images](https://arxiv.org/abs/2512.20013) (arXiv'2025) \\
+[SegEarth-R2: Towards Comprehensive Language-guided Segmentation for Remote Sensing Images](https://arxiv.org/abs/2512.20013) (CVPR'2026) \\
 Zepeng Xin\*, **Kaiyu Li\***, Luodi Chen, Wanchen Li, Yuchen Xiao, Hui Qiao, Weizhan Zhang, Deyu Meng, Xiangyong Cao. (Project leader)
 
 [**Code**](https://github.com/earth-insights/SegEarth-R2) ![](https://img.shields.io/github/stars/earth-insights/SegEarth-R2?style=social)
@@ -198,7 +198,7 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 </div>
 
 
-- **[Remote Sening MLLM]** [ZoomEarth: Active Perception for Ultra-High-Resolution Geospatial Vision-Language Tasks](https://arxiv.org/abs/2511.12267), Ruixun Liu*, Bowen Fu*, Jiayi Song, **Kaiyu Li**, Wanchen Li, Lanxuan Xue, Hui Qiao, Weizhan Zhang, Deyu Meng, Xiangyong Cao. arXiv'2025. [Project](https://earth-insights.github.io/ZoomEarth/). (Project leader)
+- **[Remote Sening MLLM]** [ZoomEarth: Active Perception for Ultra-High-Resolution Geospatial Vision-Language Tasks](https://arxiv.org/abs/2511.12267), Ruixun Liu*, Bowen Fu*, Jiayi Song, **Kaiyu Li**, Wanchen Li, Lanxuan Xue, Hui Qiao, Weizhan Zhang, Deyu Meng, Xiangyong Cao. CVPR'2026. [Project](https://earth-insights.github.io/ZoomEarth/). (Project leader)
 - **[Remote Sensing Vector Map Dataset]** [IRSAMAP: A Large-Scale, High-Resolution, Multi-Class Vector Map Dataset for Remote Sensing](https://ieeexplore.ieee.org/document/11129926), Yu Meng, Ligao Deng, Zhihao Xi, Jiansheng Chen, Jingbo Chen, Anzhi Yue, Diyou Liu, Kai Li, Chenhao Wang, **Kaiyu Li**, Yupeng Deng, Xian Sun. TGRS'2025. [Dataset](https://github.com/ucas-dlg/IRSAMap).
 - **[UAV Tracking]** [Dist-Tracker: A Small Object-aware Detector and Tracker for UAV Tracking](https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/html/Wang_Dist-Tracker_A_Small_Object-aware_Detector_and_Tracker_for_UAV_Tracking_CVPRW_2025_paper.html), Wenzhen Wang\*, Jing Fu\*, Jiayi Song\*, **Kaiyu Li\***, Hui Qiao, Jiang Liu, Hao Sun, Xiangyong Cao. CVPRW 2025. [Code](https://github.com/earth-insights/Dist-Tracker). (Project leader)
 - **[Zero-shot Hyperspectral Image Classification]** [SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP](https://arxiv.org/abs/2501.16222), Li Pang, Jing Yao, **Kaiyu Li**, Xiangyong Cao. arXiv 2025. [Code](https://github.com/LiPang/SPECIAL).

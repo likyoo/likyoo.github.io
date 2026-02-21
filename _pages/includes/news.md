@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.02*：SegEarth-R2 and ZoomEarth are accepted by CVPR 2026. 🎉
 - *2026.01*: We are launching the [「天眼智境」遥感图像语言引导分割挑战赛 (Track 1)](https://www.codabench.org/competitions/12624/) at [AIRS-2026](https://www.airs.top/) “国测海遥杯”. Welcome to participate!🔥
 - *2025.12*: 入选2025年度中国科协青年科技人才培育工程博士生专项计划 ! 🎉
 - *2025.11*: [DynamicEarth](https://likyoo.github.io/DynamicEarth/) is accepted by AAAI 2026 (<b><font color="red">Oral</font></b>) ! 🎉🎉🎉
