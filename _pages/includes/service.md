@@ -1,4 +1,4 @@
-# 🔗 Academic Service
+# 🔗 Academic Services
 
 **Reviewer**
 
