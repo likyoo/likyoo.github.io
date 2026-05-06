@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.04*：One [survy paper](https://www.cjig.cn/zh/article/doi/10.11834/jig.260163/) on remote sensing open vocabulary perception is accepted by 中国图象图形学报.
+- *2026.04*：One [survy paper](https://www.cjig.cn/zh/article/doi/10.11834/jig.260163/) on remote sensing open vocabulary perception is accepted by Journal of Image and Graphics (中国图象图形学报).
 - *2026.02*：[SegEarth-R2](https://arxiv.org/abs/2512.20013) (Highlight) and [ZoomEarth](https://arxiv.org/abs/2511.12267) (Highlight) are accepted by CVPR 2026. 🎉
 - *2026.01*: We are launching the [「天眼智境」遥感图像语言引导分割挑战赛 (Track 1)](https://www.codabench.org/competitions/12624/) at [AIRS-2026](https://www.airs.top/) “国测海遥杯”. Welcome to participate!🔥
 - *2025.12*: 入选2025年度中国科协青年科技人才培育工程博士生专项计划 ! 🎉
