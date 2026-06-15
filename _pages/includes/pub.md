@@ -53,21 +53,11 @@ Zepeng Xin\*, **Kaiyu Li\***, Luodi Chen, Wanchen Li, Yuchen Xiao, Hui Qiao, Wei
 </div>
 </div>
 
+- **[open-vocabulary remote sensing survey]** [Advances in open vocabulary perception for remote sensing images](https://www.cjig.cn/zh/article/doi/10.11834/jig.260163/), **Kaiyu Li\*†**, Xiangyong Cao, Zixuan Jiang, Deyu Meng. JIG 2026. [Repo](https://github.com/earth-insights/Advanced-Earth-Observation).
+
 - **[Semi-supervised Segmentation]** [RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2506.08772), Jiayi Song\*, **Kaiyu Li\*†**, Xiangyong Cao, Deyu Meng. TGRS 2026. [Code](https://github.com/earth-insights/RS-MTDF). (Project leader)
 
 - **[Few-shot Segmentation]** [Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](https://arxiv.org/abs/2404.05111), Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao. CVPRW'2024. [Code](https://github.com/earth-insights/ClassTrans). 🏆️The 2nd place in the [CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge](https://cliffbb.github.io/OEM-Fewshot-Challenge/). (Project leader)
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/classtrans.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](https://arxiv.org/abs/2404.05111) \\
-Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao
-
-[**Code**](https://github.com/earth-insights/ClassTrans) ![](https://img.shields.io/github/stars/earth-insights/ClassTrans?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:eQOLeE2rZwMC'></span></strong>
-  - We propose a similarity transition matrix to guide the learning of novel classes with base class knowledge.
-  - Our solution wins 2nd place in the [CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge](https://cliffbb.github.io/OEM-Fewshot-Challenge/).
-</div>
-</div> -->
 
 
 ## Remote Sensing Image Change Detection
@@ -120,52 +110,10 @@ Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/changer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Changer: Feature interaction is what you need for change detection](https://arxiv.org/abs/2209.08290) \\
-Sheng Fang, **Kaiyu Li†**, Zhe Li
-
-🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>
-
-[**Code**](https://github.com/likyoo/open-cd) ![](https://img.shields.io/github/stars/likyoo/open-cd?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:IjCSPb-OGe4C'></span></strong>
-  - We propose a novel general change detection architecture, MetaChanger, which includes a series of alternative interaction layers in the feature extractor.
-  - To verify the effectiveness of MetaChanger, we propose two derived models, ChangerAD and ChangerEx with simple interaction strategies: Aggregation-Distribution (AD) and “exchange”. AD is abstracted from some complex interaction methods, and **“exchange” is a completely parameter & computation-free operation by exchanging bi-temporal features**.
-</div>
-</div> -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2021</div><img src='images/snunet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SNUNet-CD: A densely connected Siamese network for change detection of VHR images](https://ieeexplore.ieee.org/abstract/document/9355573) \\
-Sheng Fang, **Kaiyu Li†**, Jinyuan Shao, Zhe Li
-
-🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>
-
-[**Code**](https://github.com/likyoo/Siam-NestedUNet) ![](https://img.shields.io/github/stars/likyoo/Siam-NestedUNet?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:9yKSN-GCB0IC'></span></strong>
-
-- We propose a densely connected siamese network for change detection, namely SNUNet-CD (the combination of Siamese network and NestedUNet). SNUNet-CD alleviates the loss of localization information in the deep layers of neural network through compact information transmission between encoder and decoder, and between decoder and decoder.
-- Ensemble Channel Attention Module (ECAM) is  proposed for deep supervision.
-</div>
-</div> -->
-
 - **[Supervised Change Detection]** [Changer: Feature interaction is what you need for change detection](https://arxiv.org/abs/2209.08290), Sheng Fang, **Kaiyu Li**, Zhe Li. TGRS 2023. 🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>. [Code](https://github.com/likyoo/open-cd) ![](https://img.shields.io/github/stars/likyoo/open-cd?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:IjCSPb-OGe4C'></span></strong>.
 - **[Supervised Change Detection]** [SNUNet-CD: A densely connected Siamese network for change detection of VHR images](https://ieeexplore.ieee.org/abstract/document/9355573), Sheng Fang, **Kaiyu Li**, Jinyuan Shao, Zhe Li. GRSL 2021. 🏆️ <b><font color="red">GRSL Most Cited Paper</font></b> 🏆️ <b><font color="red">Highly Cited Paper</font></b>. [Code](https://github.com/likyoo/Siam-NestedUNet) ![](https://img.shields.io/github/stars/likyoo/Siam-NestedUNet?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:9yKSN-GCB0IC'></span></strong>.
 - **[Change Captioning]** [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Captioning](https://arxiv.org/abs/2410.23946), Ruixun Liu\*, **Kaiyu Li\***, Jiayi Song\*, Dongwei Sun, Xiangyong Cao. arXiv 2024. [Code](https://github.com/liuruixun/MV-cc). (Project leader)
 
-<!-- ## Multi-modal Remote Sensing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><img src='images/s2enet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[S²ENet: Spatial–Spectral Cross-Modal Enhancement Network for Classification of Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/abstract/document/9583936) \\
-Sheng Fang, **Kaiyu Li†**, Zhe Li
-
-🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>
-
-[**Code**](https://github.com/likyoo/Multimodal-Remote-Sensing-Toolkit) ![](https://img.shields.io/github/stars/likyoo/Multimodal-Remote-Sensing-Toolkit?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:d1gkVwhDpl0C'></span></strong>
-
-  - We propose a Spatial-Spectral Enhancement Module (S²EM) for cross modal information interaction in deep neural networks. Specifically, S²EM consists of SpAtial Enhancement Module (SAEM) for enhancing spatial representation of hyperspectral data by LiDAR features and SpEctral Enhancement Module (SEEM) for enhancing spectral representation of LiDAR data by hyperspectral features.
-</div>
-</div> -->
 
 
 ## Others
@@ -204,12 +152,56 @@ Sheng Fang, **Kaiyu Li†**, Zhe Li
 - **[UAV Tracking]** [Dist-Tracker: A Small Object-aware Detector and Tracker for UAV Tracking](https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/html/Wang_Dist-Tracker_A_Small_Object-aware_Detector_and_Tracker_for_UAV_Tracking_CVPRW_2025_paper.html), Wenzhen Wang\*, Jing Fu\*, Jiayi Song\*, **Kaiyu Li\***, Hui Qiao, Jiang Liu, Hao Sun, Xiangyong Cao. CVPRW 2025. [Code](https://github.com/earth-insights/Dist-Tracker). (Project leader)
 - **[Zero-shot Hyperspectral Image Classification]** [SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP](https://arxiv.org/abs/2501.16222), Li Pang, Jing Yao, **Kaiyu Li**, Xiangyong Cao. TGRS 2026. [Code](https://github.com/LiPang/SPECIAL).
 - **[Road Graph Extraction]** [Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method](https://arxiv.org/abs/2411.16733), Pan Yin\*, **Kaiyu Li\***, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng. CVPR 2025. [Code](https://github.com/earth-insights/samroadplus). (Project leader)
-<!-- - **[Change Captioning]** [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Captioning](https://arxiv.org/abs/2410.23946), Ruixun Liu\*, **Kaiyu Li\***, Jiayi Song\*, Dongwei Sun, Xiangyong Cao. arXiv 2024. [Code](https://github.com/liuruixun/MV-cc). -->
 - **[Agriculture]** [RepDI: A light-weight CPU network for apple leaf disease identification](https://www.sciencedirect.com/science/article/abs/pii/S0168169923005100), Jiye Zheng, **Kaiyu Li**, Wenbin Wu, Huaijun Ruan. COMPAG 2023. [Code](https://github.com/likyoo/RepDI).
 - **[Skeleton Extraction]** [CAMION: Cascade Multi-input Multi-output Network for Skeleton Extraction](https://openaccess.thecvf.com/content/CVPR2022W/DLGC/html/Fang_CAMION_Cascade_Multi-Input_Multi-Output_Network_for_Skeleton_Extraction_CVPRW_2022_paper.html), Sheng Fang, **Kaiyu Li**, Zhe Li. CVPRW 2022.
 - **[Multi-modal Remote Sensing]** [S²ENet: Spatial–Spectral Cross-Modal Enhancement Network for Classification of Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/abstract/document/9583936), Sheng Fang, **Kaiyu Li**, Zhe Li. GRSL 2022. [Code](https://github.com/likyoo/Multimodal-Remote-Sensing-Toolkit). 🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>
 
 
+
+
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/changer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Changer: Feature interaction is what you need for change detection](https://arxiv.org/abs/2209.08290) \\
+Sheng Fang, **Kaiyu Li†**, Zhe Li
+
+🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>
+
+[**Code**](https://github.com/likyoo/open-cd) ![](https://img.shields.io/github/stars/likyoo/open-cd?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:IjCSPb-OGe4C'></span></strong>
+  - We propose a novel general change detection architecture, MetaChanger, which includes a series of alternative interaction layers in the feature extractor.
+  - To verify the effectiveness of MetaChanger, we propose two derived models, ChangerAD and ChangerEx with simple interaction strategies: Aggregation-Distribution (AD) and “exchange”. AD is abstracted from some complex interaction methods, and **“exchange” is a completely parameter & computation-free operation by exchanging bi-temporal features**.
+</div>
+</div> -->
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2021</div><img src='images/snunet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SNUNet-CD: A densely connected Siamese network for change detection of VHR images](https://ieeexplore.ieee.org/abstract/document/9355573) \\
+Sheng Fang, **Kaiyu Li†**, Jinyuan Shao, Zhe Li
+
+🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>
+
+[**Code**](https://github.com/likyoo/Siam-NestedUNet) ![](https://img.shields.io/github/stars/likyoo/Siam-NestedUNet?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:9yKSN-GCB0IC'></span></strong>
+
+- We propose a densely connected siamese network for change detection, namely SNUNet-CD (the combination of Siamese network and NestedUNet). SNUNet-CD alleviates the loss of localization information in the deep layers of neural network through compact information transmission between encoder and decoder, and between decoder and decoder.
+- Ensemble Channel Attention Module (ECAM) is  proposed for deep supervision.
+</div>
+</div> -->
+<!-- ## Multi-modal Remote Sensing
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><img src='images/s2enet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[S²ENet: Spatial–Spectral Cross-Modal Enhancement Network for Classification of Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/abstract/document/9583936) \\
+Sheng Fang, **Kaiyu Li†**, Zhe Li
+
+🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>
+
+[**Code**](https://github.com/likyoo/Multimodal-Remote-Sensing-Toolkit) ![](https://img.shields.io/github/stars/likyoo/Multimodal-Remote-Sensing-Toolkit?style=social) <strong><span class='show_paper_citations' data='jTAxkbEAAAAJ:d1gkVwhDpl0C'></span></strong>
+
+  - We propose a Spatial-Spectral Enhancement Module (S²EM) for cross modal information interaction in deep neural networks. Specifically, S²EM consists of SpAtial Enhancement Module (SAEM) for enhancing spatial representation of hyperspectral data by LiDAR features and SpEctral Enhancement Module (SEEM) for enhancing spectral representation of LiDAR data by hyperspectral features.
+</div>
+</div> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2022</div><img src='images/camion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
