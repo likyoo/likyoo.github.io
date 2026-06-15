@@ -53,7 +53,7 @@ Zepeng Xin\*, **Kaiyu Li\***, Luodi Chen, Wanchen Li, Yuchen Xiao, Hui Qiao, Wei
 </div>
 </div>
 
-- **[open-vocabulary remote sensing survey]** [Advances in open vocabulary perception for remote sensing images](https://www.cjig.cn/zh/article/doi/10.11834/jig.260163/), **Kaiyu Li\*†**, Xiangyong Cao, Zixuan Jiang, Deyu Meng. JIG 2026. [Repo](https://github.com/earth-insights/Advanced-Earth-Observation).
+- **[open-vocabulary remote sensing survey]** [Advances in open vocabulary perception for remote sensing images](https://www.cjig.cn/zh/article/doi/10.11834/jig.260163/), **Kaiyu Li**, Xiangyong Cao, Zixuan Jiang, Deyu Meng. JIG 2026. [Repo](https://github.com/earth-insights/Advanced-Earth-Observation).
 
 - **[Semi-supervised Segmentation]** [RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2506.08772), Jiayi Song\*, **Kaiyu Li\*†**, Xiangyong Cao, Deyu Meng. TGRS 2026. [Code](https://github.com/earth-insights/RS-MTDF). (Project leader)
 
