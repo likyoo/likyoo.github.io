@@ -53,8 +53,6 @@ Zepeng Xin\*, **Kaiyu Li\***, Luodi Chen, Wanchen Li, Yuchen Xiao, Hui Qiao, Wei
 </div>
 </div>
 
-- **[open-vocabulary remote sensing survey]** [Advances in open vocabulary perception for remote sensing images](https://www.cjig.cn/zh/article/doi/10.11834/jig.260163/), **Kaiyu Li**, Xiangyong Cao, Zixuan Jiang, Deyu Meng. JIG 2026. [Repo](https://github.com/earth-insights/Advanced-Earth-Observation).
-
 - **[Semi-supervised Segmentation]** [RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2506.08772), Jiayi Song\*, **Kaiyu Li\*†**, Xiangyong Cao, Deyu Meng. TGRS 2026. [Code](https://github.com/earth-insights/RS-MTDF). (Project leader)
 
 - **[Few-shot Segmentation]** [Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](https://arxiv.org/abs/2404.05111), Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao. CVPRW'2024. [Code](https://github.com/earth-insights/ClassTrans). 🏆️The 2nd place in the [CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge](https://cliffbb.github.io/OEM-Fewshot-Challenge/). (Project leader)
@@ -144,6 +142,10 @@ Zepeng Xin\*, **Kaiyu Li\***, Luodi Chen, Wanchen Li, Yuchen Xiao, Hui Qiao, Wei
 
 </div>
 </div>
+
+- **[Open-vocabulary Remote Sensing Survey]** [Advances in open vocabulary perception for remote sensing images](https://www.cjig.cn/zh/article/doi/10.11834/jig.260163/), **Kaiyu Li**, Xiangyong Cao, Zixuan Jiang, Deyu Meng. JIG 2026. [Repo](https://github.com/earth-insights/Advanced-Earth-Observation).
+
+- **[Cross-view Spatial Reasoning]** [CVSBench: A Comprehensive Benchmark for Cross-view Spatial Reasoning and Dreaming](https://arxiv.org/abs/2606.22476), Ruixun Liu, Lingyu Zhang, Lanxuan Xue, **Kaiyu Li†**, Bowen Fu, Xiangyong Cao†. ECCV 2026. [Project](https://earth-insights.github.io/CVSBench).
 
 - **[Auto-research Evaluation]** [Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle](https://arxiv.org/abs/2606.07462), Jiayu Wang*, Weijiang Lv*, Bowen Fu*, Jing Fu, Jiayi Song, Lingyu Zhang, Lanxuan Xue, Luodi Chen, Zepeng Xin, **Kaiyu Li†**, Xiangyong Cao†. arXiv'2026. [Data](https://github.com/AARR-bench/AARRI-bench). (Project leader)
 
