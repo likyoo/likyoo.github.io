@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I am a second-year Ph.D. student at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/).
+I am a third-year Ph.D. student at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). **I am seeking faculty and research positions for 2027. Please feel free to contact me.**
 
 # 🔍Research Topics
 

@@ -53,6 +53,21 @@ Zepeng Xin\*, **Kaiyu Li\***, Luodi Chen, Wanchen Li, Yuchen Xiao, Hui Qiao, Wei
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/ovearth_bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OVEarth-Bench: Evaluating Category Breadth and Query Diversity for Open-Vocabulary Earth Observation](https://arxiv.org/abs/2607.27278) \\
+**Kaiyu Li**, Zepeng Xin, Zixuan Jiang, Jing Fu, Lanxuan Xue, Lingyu Zhang, Xiangyong Cao
+
+[**Project**](https://earth-insights.github.io/OVEarth-bench) | [**Data**](https://huggingface.co/datasets/earth-insights/OVEarth-Bench) | [**Code**](https://github.com/earth-insights/OVEarth-bench) ![](https://img.shields.io/github/stars/earth-insights/OVEarth-bench?style=social) | [**Data Demo**](https://modelscope.cn/studios/earth-insights/OVEarth-Bench-Explorer) | [**Comparison Demo**](https://modelscope.cn/studios/earth-insights/OVEarth-Bench_Arena)
+- OVEarth-Bench is a unified zero-shot benchmark for open-vocabulary Earth observation across broad categories and diverse queries, with findings that guide the design of future open-vocabulary EO methods.
+
+**Media coverage:**<span style="font-size: 12px;"> [【遥感与深度学习】OVEarth-Bench: 西安交大团队提出面向开放词汇地球观测的全新多样性评测基准！](https://mp.weixin.qq.com/s/UmOpxMzPiVLAVT0k4i0tbA)|[【魔搭ModeIScope社区】OVEarth-Bench开源：172 类遥感开放词汇基准，49 通用+专用模型实测](https://mp.weixin.qq.com/s/cmAWug3QvJmzntsoWR4HEA) |</span>
+
+</div>
+</div>
+
 - **[Semi-supervised Segmentation]** [RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2506.08772), Jiayi Song\*, **Kaiyu Li\*†**, Xiangyong Cao, Deyu Meng. TGRS 2026. [Code](https://github.com/earth-insights/RS-MTDF). (Project leader)
 
 - **[Few-shot Segmentation]** [Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](https://arxiv.org/abs/2404.05111), Shihong Wang\*, Ruixun Liu\*, **Kaiyu Li\***, Jiawei Jiang, Xiangyong Cao. CVPRW'2024. [Code](https://github.com/earth-insights/ClassTrans). 🏆️The 2nd place in the [CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge](https://cliffbb.github.io/OEM-Fewshot-Challenge/). (Project leader)
