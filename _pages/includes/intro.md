@@ -1,6 +1,7 @@
 # 👋 About Me
 
-I am a third-year Ph.D. student at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). **I am seeking faculty and research positions for 2027. Please feel free to contact me.** (My WeChat: likyoo7)
+I am a third-year Ph.D. student at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/).
+<b><font color="red">I am seeking faculty and research positions for 2027. Please feel free to contact me.</font></b> (My WeChat: likyoo7)
 
 # 🔍Research Topics
 
