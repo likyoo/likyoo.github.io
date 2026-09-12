@@ -142,7 +142,7 @@ Zepeng Xin\*, **Kaiyu Li\***, Luodi Chen, Wanchen Li, Yuchen Xiao, Hui Qiao, Wei
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/describeearth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS P&RS 2026</div><img src='images/describeearth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DescribeEarth: Describe Anything for Remote Sensing Images](https://arxiv.org/abs/2509.25654) \\

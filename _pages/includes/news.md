@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.09*: [DescribeEarth](https://arxiv.org/abs/2509.25654) is accepted by ISPRS P&RS 2026.
 - *2026.06*: One paper on [cross-view spatial reasoning](https://arxiv.org/abs/2606.22476) is accepted by ECCV 2026.
 - *2026.06*: Two papers on [semi-supervised segmentation](https://arxiv.org/abs/2506.08772) and [zero-shot hyperspectral image classification](https://arxiv.org/abs/2501.16222) are accepted by TGRS.
 - *2026.04*：One [survy paper](https://www.cjig.cn/zh/article/doi/10.11834/jig.260163/) on remote sensing open vocabulary perception is accepted by Journal of Image and Graphics (中国图象图形学报).
